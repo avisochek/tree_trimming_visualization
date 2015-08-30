@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="http://d3js.org/d3.v3.min.js"></script>
+    <style>
+    </style>
+    <script type="text/javascript">
+
+
+  
+function draw(geo_data) {
+	"use strict";
+	var margin = 75,
+		width = 1400 - margin,
+		height = 600 - margin;
+
+	var svg = d3.select("body")
+		.append("svg")
+		.attr("width", width + margin)
+		.attr("height", height + margin)
+		.append('g')
+		.attr('class', 'map');
+
+
+
+	var projection = d3.geo.mercator()
+		.center([-72.9236, 41.31])
+		.scale(200000);
+
+	var path = d3.geo.path().projection(projection);
+
+
+	var map = svg.selectAll('path')
+		 .data(geo_data.features)
+		 .enter()
+		 .append('path')
+		 .attr('d', path)
+		 .style('fill', 'lightBlue')
+		 .style('stroke', 'black')
+		 .style('stroke-width', 1);
+
+	//debugger;
+
+	function plot_points(data){
+
+		//debugger;
+		/*var nested = d3.nest()
+			.key(function(d){return d.created_at.substring(0,4)})
+			.rollup(function(leaves) {
+				var coords = [];
+				
+				leaves.forEach(function(d){
+					var qqqq = projection( [+d.lng, +d.lat] );
+					coords.push(  qqqq  );
+				});
+
+				return {"coords":coords};
+			})
+			.entries(data);
+		//debugger;*/
+
+		var transformed_data =[]
+
+		data.forEach(function(d){
+			transformed_data.push(
+				{"values":
+					{'year':d.created_at.substring(0,4),
+					'month':d.created_at.substring(5,7),
+					'hour':d.created_at.substring(11,13),
+					'x':projection([d.lng,d.lat])[0],
+					'y':projection([d.lng,d.lat])[1]}
+				});
+		})
+//debugger;
+		svg.append('g')
+			.attr("class", "bubble")
+
+
+		var circles=svg
+			.selectAll("circle")
+			.data(transformed_data)
+
+		
+		circles.enter()
+			.append("circle")
+			.attr("cx",function(d) {return d.values.x;})
+			.attr("cy",function(d) {return d.values.y;})
+			.attr("r",2)
+			.attr('opacity',0)
+			.style("fill","red")
+			//YOUR CODE HERE
+	
+
+		function update(year,month,hour) {
+			/*var filtered = transformed_data.filter(function(d) {
+				return d["values"]['year'] === year;
+			});
+
+			debugger;
+			/*var coords = filtered[0].values.coords;*/
+			var months=[
+				'January ',
+				'February ',
+				'March ',
+				'April ',
+				'May ',
+				'June ',
+				'July ',
+				'August ',
+				'September ',
+				'November ',
+				'October ',
+				'December ']
+
+			var header = ''
+			if(hour){header+=hour+':00 ';}
+			if(month){header+=months[parseInt(month)-1];}
+			if(year){header+=year;}
+
+			d3.select('h1')
+				.text(header)
+				.attr('align','center')
+
+			function updated(d){
+				var condition = 1;
+				if(year){condition &= (d['values']['year']===year);};
+				debugger;
+				if(month){condition &= (d['values']['month']===month);};
+				if(hour){condition &= (d['values']['hour']===hour);};
+				return condition;
+			};
+
+			svg.selectAll('circle')
+				.attr('opacity',updated);
+			
+		}
+		debugger;
+
+		d3.select('button').on("click",function(){update('2015','01')});
+	}
+
+	d3.csv("../data/scfnh6.csv", function(d) {
+		return d;
+  	}, plot_points);
+};
+
+      </script>
+  </head>
+<body>
+  <h1></h1>
+  <button>jan 2015</button>
+  <script type="text/javascript">
+  /*
+    Use D3 to load the GeoJSON file
+    */
+
+d3.json("../data/new_haven.geojson", draw);
+  </script>
+</body>
+</html>

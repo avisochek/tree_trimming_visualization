@@ -1,0 +1,7 @@
+fix_time,count
+< 6 months,0
+< 1 week,5
+< 1 day,0
+< 1 year,0
+> 1 year,0
+< 1 month,3

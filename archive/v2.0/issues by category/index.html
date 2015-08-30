@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="http://d3js.org/d3.v3.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="styles/style.css">
+  <script type="text/javascript" src="javascripts/label_map.js"></script>
+  <script type="text/javascript" src="javascripts/color_map.js"></script>
+  <script type="text/javascript" src="javascripts/nh_map.js"></script>
+</head>
+
+<body>
+
+
+
+    <div id="sidebar">
+      <h1 id="header"><h1></br>
+      <button id='hide'>hide selector</button></br>
+      <div id ='selections'>
+        <button class='button' value='Parks & Trees'>Parks and Trees</button></br>
+        <button class='button' value='Policing Issue'>Policing Issue</button></br>
+        <button class='button' value='Garbage Related'>Garbage Related</button></br>
+        <button class='button' value='Road Damage & Obstructions'>Road Damage and Obstructions</button></br>
+        <button class='button' value='Pedestrian Issues'>Pedestrian Issues</button></br>
+        <button class='button' value='Private Property Issue'>Private Property Issue</button></br>
+        <button class='button' value='Snow Related'>Snow Related</button></br>
+        <button class='button' value='Street Lamps and Lighting'>Street Lamps and Lighting</button></br>
+        <button class='button' value='Eyesores'>Eyesores</button></br>
+        <button class='button' value="Traffic & Road Safety">Traffic and Road Safety</button></br>
+        <button class='button' value='null'>All Issues</button></br>
+      </div>
+    </div>
+
+
+    <script type="text/javascript">
+    d3.select("#hide").on("click",function(){
+      if (d3.select(this).text()=="hide selector"){
+        d3.select(this).text("show selector");
+        d3.select("#selections").style("display","None");
+      }else{
+        d3.select(this).text("hide selector");
+        d3.select("#selections").style("display","Block");
+      }
+    });
+    d3.json("data/new_haven.geojson", function(data){draw(data,2);})</script>
+  <div id='content'>
+  </div>
+</body>
+</html>

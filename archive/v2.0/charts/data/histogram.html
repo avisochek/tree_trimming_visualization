@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="http://d3js.org/d3.v3.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="styles/style.css">
+    <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+  <script src="http://dimplejs.org/dist/dimple.v2.1.6.min.js"></script>
+</head>
+
+<body>
+<div id="chartContainer">
+<script type="text/javascript">
+  var svg = dimple.newSvg("#chartContainer", 900, 600);
+  d3.csv("../data/nhv6.2.csv", function (data) {
+  var chart_data = d3.nest()
+  .key(function(d){
+    var date = new Date(d.created_at)
+    var year = date.getFullYear()
+    var month = date.getMonth()
+    return new Date(month.toString()+"-"+year.toString())})
+  .rollup(function(leaves){
+    var count = d3.sum(leaves,function(){return 1;})
+    return count;
+  })
+  .entries(data);
+  debugger;
+
+    var myChart = new dimple.chart(svg, chart_data);
+    myChart.setBounds(20, 20, 800, 400);
+    var x = myChart.addCategoryAxis("x","key");
+    x.addOrderRule("Date")
+    myChart.addMeasureAxis("y", "values");
+    myChart.addSeries("key", dimple.plot.line);
+    myChart.addLegend(450, 20, 90, 200, "left");
+    myChart.draw();
+  });
+</script>
+  </div>
+</body>
+</html>

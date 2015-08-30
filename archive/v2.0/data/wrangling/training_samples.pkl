@@ -1,0 +1,1780 @@
+(lp0
+(lp1
+VIllegal Dumping
+p2
+aVResident reports illegal dumping on the property and also on the curbside in front of that house.
+p3
+aS'Illegal Dumping'
+p4
+aa(lp5
+VPublic Space, Streets and Drains
+p6
+aVLoose manhole cover very loud sounds, every time a vehicle goes over it, disturbing and annoying.  
+p7
+aS'Public Space, Streets and Drains'
+p8
+aa(lp9
+Vdirt bikes
+p10
+aVDirt bikes and quads racing in park.  There is no reason why there is no timely plice redponse to this prolonged and visible behavior. Enough already.
+p11
+aS'Traffic, Road Safety & Noisy Vehicles'
+p12
+aa(lp13
+Vstump
+p14
+aV
+p15
+aS'Stump'
+p16
+aa(lp17
+VSidewalk
+p18
+ag15
+aS'Sidewalk & Curb Damage'
+p19
+aa(lp20
+VTree Trimming
+p21
+ag15
+aS'Tree Trimming'
+p22
+aa(lp23
+VDirtbikes and Quads Tear Through Neighborhood in front of Cop
+p24
+aVI just witnessed about a dozen people on dirtbikes and quads tear through our neighborhood directly in front of a police car. The office hit his siren once and followed ambivalently as they sped away against traffic, on sidewalks, nearly causing an accident at the corner of Winthrop and Chapel. You could still hear them a minute later, presumably all the way to Whalley. This is out of f'in control and ridiculous! How is it our police force cant stop a bunch of idiot teenagers riding around on these things? Someones going to get really hurt one day when they cause an accident or lose control of their ride. I think its time for the police to reexamine their "no chase" policy, clearly relationship building and stakeouts aren't working. It's only June and this issue is out of hand, worse than its been in previous years. Cant we basically just station officers at all the major intersections in the neighborhoods they like to frequent and blockade them in, then arrest and seize the bikes/ quads? Something else needs to be done. 
+p25
+ag12
+aa(lp26
+VRed Nissan Sentra with Punched-Out Locks
+p27
+aVDumped on Robertson Street near Clifton Street with some joyriding damage and screwdriver still in the ignition. CT license plate 876-YHM. Has a city parking ticket dated 3-13-13 on it so will probably be towed soon. But it must've been somebody's baby ....
+p28
+aS'Other'
+p29
+aa(lp30
+Vstreet needs paving
+p31
+aVthe street in in poor condition and needs repaving
+p32
+ag8
+aa(lp33
+VSigns / Bus Shelters / Pavement Markings
+p34
+aVIt's more in regards to campus signage! The stickers may be vandalism but I think it's time to consider updated signage :) maybe something more modern with a similar design as the library! Also, update the places you are directing to!
+p35
+aS'Signs/BusShelters/Pavement Markings'
+p36
+aa(lp37
+VPublic Space, Streets and Drains
+p38
+aVVendor not in compliance.  Pretty sure there is no vendor license. And they are within ten feet of other vendors
+p39
+ag8
+aa(lp40
+VTree Trimming
+p41
+aVward 24
+p42
+ag22
+aa(lp43
+VPotholes
+p44
+aVPretty good pothole that gets worse by the day.
+p45
+aS'Potholes'
+p46
+aa(lp47
+VMissing Cat
+p48
+aVLost 11/13/2012 Maile, 9lb, 14 yr old. Black w/ white and grey. Lost near howe street and apt building between Chapel and Edgewood
+p49
+aS'Missing People and Pets'
+p50
+aa(lp51
+VPotholes
+p52
+aVThe potholes are around the stop light and extend over to Sperry Street. Please fill them, asap!!!
+p53
+ag46
+aa(lp54
+V(EONP) Orange St.
+p55
+aVThere will be an Emergency Order No Parking ban on Thursday, June 11th on 25 Orange St, meter numbers 05108 through 05114, even meters only, due to utility work for the UI.
+p56
+aS'City Announcements & Notices'
+p57
+aa(lp58
+VStreet Lamp
+p59
+aVSTREET LIGHTING FIXTURE NOT WORKING
+p60
+aS'Street Lamps'
+p61
+aa(lp62
+VLeaves
+p63
+aVRenaissance Management maintenance placed a pile of leaves in the street now they re in front of neighbors property this has been an ongoing issue
+p64
+aS'Leaves'
+p65
+aa(lp66
+VSnow Removal Requested
+p67
+aVBusinesses in this area are requesting that snow banks be removed as soon as possible.
+p68
+aS'Snow Related'
+p69
+aa(lp70
+VIllegal Dumping
+p71
+aVThere are black garbage bags that were illegally dumped at this location. Please send someone to remove them as soon as possible.
+p72
+ag4
+aa(lp73
+VBike lane needed from Clinton Avenue to Orange Street
+p74
+aVA bike lane is needed between the existing Clinton Ave. and Orange Street bike lanes. If you agree click, "I want this fixed too\u201d and comment. Pictures welcomed. We especially want to hear from folks currently biking from Chatham Square Neighborhood to any place north of the Green or beyond. Come on people we can get this! Here is one proposed route: \u000ahttp://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=103243076916819646367.000472711c007a83ca13b&t=h&z=15
+p75
+ag12
+aa(lp76
+VLoose  Manhole Cover
+p77
+aVIn the middle of street - across from Helene Grant School
+p78
+ag8
+aa(lp79
+VPotholes
+p80
+aV2 large pot holes have opened at bottom of hill ,corner woodward ave and mourse pl.
+p81
+ag46
+aa(lp82
+VTree Trimming
+p83
+ag15
+ag22
+aa(lp84
+VRemoval
+p85
+aVLarge tree roots uplifting the sidewalk. Resident already contacted Public Works regarding fixing the sidewalk.
+p86
+aS'Tree Removal'
+p87
+aa(lp88
+VLate Night Red Lights for Pedestrians
+p89
+aVEver notice how New Haven traffic lights (not just this one, other lights such as at Temple and Crown do this as well) continue to have a four-way red to allow pedestrians to cross in all directions?  This makes sense during the day, when there are a lot of pedestrians, but it is pointless past midnight certainly during the week and past 2am on weekends.  It is really annoying to get stuck at a light for 30 seconds with a four-way walk sign flashing and zero pedestrians anywhere in sight while driving home late.  There must be a way to have a daytime pattern and a nighttime pattern.
+p90
+ag12
+aa(lp91
+VBrand New Sidewalk Caving  In
+p92
+aV Sidewalk in front of blue apartment building at 728 Quinnipiac Avenue is sinking in on itself. This was just laid very recently with the completion of the Quinnipiac Avenue redo. Who is responsible Empire or the City of New Haven. This is dangerous.
+p93
+ag19
+aa(lp94
+VStop Signs needed
+p95
+aVputting in a request to have 2 stops signs placed on Peat Meadow and Oakley. Cars are speeding up and down Peat Meadow, especially in the morning with people trying to beat the traffic on Forbes. At the least, put speed bumps in place like they have in Front St. 
+p96
+ag12
+aa(lp97
+VLost Dog
+p98
+aVEarly last week, a little dog was found roaming in the area of Dean Street and Myron street and was picked up by a thoughtful person who gave me her name and phone number. If you know someone who lost this dog please give my office a call at (203)946-7163... Thank You Sgt. Vin
+p99
+ag50
+aa(lp100
+VTraffic/Road Safety
+p101
+aVThe snow banks along Poplar Street are reaching a height of 3-4 feet, making very difficult for anyone living along this street to pull out without getting hit.  The fire department is at the end of Poplar with the intersection of Lombard Street, and the snow banks on the corner are bad enough for anyone in a small vehicle to see.  I would think this is a safety concern, yet our street is not in the map of SNOW REMOVAL for this week.  Please update us.
+p102
+ag69
+aa(lp103
+VSigns / Bus Shelters / Pavement Markings
+p104
+aVNo street sign for Anita Street on Ellsworth
+p105
+ag36
+aa(lp106
+VStump
+p107
+ag15
+ag16
+aa(lp108
+VTraffic/Road Safety
+p109
+aVA group of at least 8 young men on dirt bikes just went racing down Hubinger toward Whalley Ave. Called Police and reported it. 
+p110
+ag12
+aa(lp111
+VTree Trimming
+p112
+ag15
+ag22
+aa(lp113
+VTraffic/Road Safety
+p114
+aVTwo lanes of traffic narrow into one at this intersection. There are no merge signs or any indication of the left lane being a left turn only lane. Drivers will frequently attempt two lanes far beyond the point of safety and are not willing to merge given the lack of posted merge signs.
+p115
+ag12
+aa(lp116
+VTree Trimming
+p117
+ag15
+ag22
+aa(lp118
+VPublic Space, Streets and Drains
+p119
+aVSewer drain clogged with ice large puddles in front of property
+p120
+ag8
+aa(lp121
+VState of CT DSS phone line is  always busy
+p122
+aVState of CT DSS phone line is always busy. 1-855-626-6632 has been busy for 2 days straight, with a recording that says "your wait time is more than 60 minutes" no matter how early you call or how long you stay on hold. This should be checked by someone at the state or city level, since phone records paid by the state should be public. I have had this problem almost every time I have called. I am trying to report a change so my kids don't lose insurance for a letter I received that was mailed to me before Thanksgiving(over a holiday weekend) with a 10 day window to call. 
+p123
+ag29
+aa(lp124
+VSidewalks and Curb damage
+p125
+aVLots of patches and missing sections
+p126
+ag19
+aa(lp127
+VTree Trimming
+p128
+ag15
+ag22
+aa(lp129
+VOther - city responsibility
+p130
+aVDANGER!\u000aSick Tree line trees drop heavy limbs in grass/path where children walk and play; driveway to cars too.\u000aSick trees: hollow, split trunks. Trimmed to weakness. Will pull down wires. City blames utilities. Utilities trim to weaken. Snow, wind, rain =danger
+p131
+ag87
+aa(lp132
+VNo Commercial Permits (Crown Fried Chicken)
+p133
+aVThe crown fried chicken on 474 Whalley Ave, New Haven CT, has electric cables hanging from the cealing, missing tiles, broken glass, these are just a couple of the stuff that I saw when I went this weekend.  I wondered why the city would issue permits to an establishment like this, then went online and verified if they had permits and didn't see any commercial permits issued for this retail stablishment.  Also the food was old and I was afraid of getting food poisoning, the city needs to pay more attention to  these restaurants, we all trust that the city is doin their homework when they let these places open for business
+p134
+aS'Businesses / Companies'
+p135
+aa(lp136
+VIllegal Dumping
+p137
+aVMattress left on tree belt . Please remove.
+p138
+ag4
+aa(lp139
+VTrim
+p140
+ag15
+ag22
+aa(lp141
+VAvoid Valero at 2:00 PM today. Bikers coming to 'f up New Haven Streets'
+p142
+aVATV gang members are planning to 'terrorize' new haven today. Warnings on Instagram show the start at Valero in East Haven. \u000a\u000aPlease use caution in this area and keep your children away from roads and public parks today. 
+p143
+aS'Informative'
+p144
+aa(lp145
+VNoise violation
+p146
+aVThe family in the house next to us is very loud. They let their child sit in their new car with the music blasting, windows down, honking the horn. This has been happening for months. There's also consistently a variety of cars and other people hanging around behind their house.
+p147
+aS'Noise Pollution'
+p148
+aa(lp149
+VTree Trimming
+p150
+aVward 30 + 27
+p151
+ag22
+aa(lp152
+VSigns / Bus Shelters / Pavement Markings
+p153
+aVNeed another Lincoln Way sign placed on this lamp post. The other one looks great on Audubon Street!
+p154
+ag36
+aa(lp155
+V$REWARD$ Missing Shitzu(Zoey)
+p156
+aVZoey been missing since 11/8/2012, in new haven area, She means a lot to me and my Family, My Family is giving a reward..please help us you can contact me anytime 2034929903
+p157
+ag50
+aa(lp158
+VSigns / Bus Shelters / Pavement Markings
+p159
+aVNo street sign for Cranston Street - 
+p160
+ag36
+aa(lp161
+VTraffic Signal / Pedestrian Signal
+p162
+aVThe speed sign on quinnipiac ave stopped working. 
+p163
+ag12
+aa(lp164
+VStreet light
+p165
+aVStreet light has been "cycling" for quite some time
+p166
+ag61
+aa(lp167
+VDamaged sidewalk
+p168
+aVSidewalk needs inspection. Damaged caused by tree has caused uplifting and cracks in sidewalk.
+p169
+ag19
+aa(lp170
+VPedestrian signal is very short
+p171
+aVAll four lights turn red and the signal is barely enough time to cross.  Also many cars and even buses will turn right on red even though they are not supposed to.
+p172
+ag12
+aa(lp173
+Vstump
+p174
+ag15
+ag16
+aa(lp175
+VBins for Trash & Recycling
+p176
+aVVoice message left at DPW. Three family home but only 1 brown and 1 blue toter.\u000a3 family home
+p177
+ag29
+aa(lp178
+Vstump
+p179
+ag15
+ag16
+aa(lp180
+VGarbage Men are Not Properly Returning the Toters to the Curb
+p181
+aVAfter trash is picked up, toter(s) are placed against parked cars, left in random places. 
+p182
+aS'Trash Removal and Other Services'
+p183
+aa(lp184
+VTree Trimming
+p185
+ag15
+ag22
+aa(lp186
+VSharp pothole on Willow
+p187
+aVI blew out both right tires on a pothole after turning from Whitney Ave onto Willow St.  It was during Friday's heavy rains so I didn't take pictures of the pothole.
+p188
+ag46
+aa(lp189
+VTraffic/Road Safety
+p190
+aVPossibly the worst Connecticut Department of "Transportation" blunder ever?  The redo of this intersection created horrible traffic backups onto Sea St., extending as far back as Howard Ave. and 6th Street.\u000aIn addition, the multiple turn lanes, signal lights, confusing signs and crazy road striping appear designed to confuse drivers.  I have witnessed several near head-on collisions from Southbound Blvd. traffic attempting to enter this octopus of an intersection.  The pedestrian infrastructure is a joke too.\u000aCT DOT forget about your little lines of paint; no one pays attention to them anyway.  Please install some hardscape, that is, islands with curbs to slow and direct traffic.  Millions of dollars spent and the end result is massive traffic jams and delays, on Sea St. and Howard Ave., car wrecks and destruction of property values in the historic City Point neighborhood.
+p191
+ag12
+aa(lp192
+VTree Trimming
+p193
+ag15
+ag22
+aa(lp194
+VPublic Space, Streets and Drains
+p195
+aVStorm drain clogged, just west of fitch st on south side of whalley, right near the bus stop.
+p196
+ag8
+aa(lp197
+VSidewalks and Curb damage
+p198
+aVResident reports a raised sidewalk in front of this location. Inspection requested. 
+p199
+ag19
+aa(lp200
+VGraffiti
+p201
+aVRest in peace tres tag on Saint Raphaels sign. 
+p202
+aS'Graffiti'
+p203
+aa(lp204
+VBike rack request
+p205
+aVA bike rack is sorely needed in front of the New Haven Museum.
+p206
+aS'Bike Racks Request'
+p207
+aa(lp208
+VPotholes
+p209
+aVThere are multiple potholes located on Winthrop Ave in between Maple and Orange. The deepest pothole is on the street across from 355 Winthrop Ave.\u000a
+p210
+ag46
+aa(lp211
+VLost Cat
+p212
+aVLittle cat, grey with white and tan.
+p213
+ag50
+aa(lp214
+VSidewalk needs major work
+p215
+aVSidewalk between Maple and Edgewood needs to be re-done, new concrete. Odd number side of the street.
+p216
+ag19
+aa(lp217
+VDamaged sidewalk and Street lights
+p218
+aVOn the corner of College and George Street there is large chunks of cement from tree roots causing tripping hazard.
+p219
+ag19
+aa(lp220
+VStreet lamp is out. 
+p221
+aVStreet lamp is out. Flickers on every once and a while but when it's out, the street is pitch black and hard to see for people driving and walking.
+p222
+ag61
+aa(lp223
+VSidewalks Damaged
+p224
+aVThe sidewalk in front of this location is lifted and in need of repairs. Inspection requested. 
+p225
+ag19
+aa(lp226
+VSNOW RELATED
+p227
+aVNeed help with snow removal from sidewalk for neighbor who is out of town, at corner of Eld and Orange.  Our neighbors across the street  asked us to look after their house while they are away and they have a lot of sidewalk \u2013 corner of Orange and Eld.  Two guys came around last time and we had them clear off the sidewalk across the street.  No one has been around so far today.  \u000aThanks\u000a\u000aRoy Money,  41 Eld, 203-498-0690\u000a
+p228
+ag69
+aa(lp229
+VStreetlight only working intermittently near 206 Hallock AVENUE
+p230
+aVStreetlight only working intermittently near 206 Hallock AVENUE
+p231
+ag61
+aa(lp232
+VPolicing Issue
+p233
+aVdirt bike almost ran over a child on the Edgewood Ave mall. Please send police to monitor and stop these criminals!!!!
+p234
+aS'Policing Issue'
+p235
+aa(lp236
+VExtremely dangerous railroad crossing for cyclists
+p237
+aVBe very careful crossing the tracks on your bike. Go slow and cross perpendicular to the rails.  Signage is desperately needed.  See http://groups.yahoo.com/group/elmcitycycling/message/8023
+p238
+ag36
+aa(lp239
+VPotholes
+p240
+aVPotholes run up and down the block on both sides of the street on the passenger side tire area. You have to drive close or over the line into the opposite travel lane to avoid them. With each passing rainstorm and freeze/thaw cycle they get worse. Some are deep enough to break car parts.
+p241
+ag46
+aa(lp242
+VRope hanging from tree
+p243
+aVRope tied like a noose has been hanging from a tree over the street for the past 3 years now. Please remove.
+p244
+ag8
+aa(lp245
+VPotholes all over Orange Street
+p246
+ag15
+ag46
+aa(lp247
+VDamage caused by new telephone pole
+p248
+aVThe phone company replaced a pole 6 months ago, and left a large chunk of concrete on the sidewalk, along with a large pile of sand. When it snows, it is impossible to clean the sidewalk properly or for someone to walk on the sidewalk.
+p249
+ag19
+aa(lp250
+VStump removal
+p251
+aVCity cut down tree outside 46 Cleveland Road, but has not removed stump. Sprouts are growing obscuring view of street for cars in neighbor's driveway.
+p252
+ag16
+aa(lp253
+VStreet lamps cycle on and off
+p254
+aVStreet lamps in area of 1005 Quinnipiac Ave have been cycling between on and off about every two minutes or so.  When they are out it is pitch black on the road and in front or resident's homes.  This has been happening for at least two weeks now.  As this is a stretch of Quinnipiac known for speeding issues can someone please look into this before we have an incident with injuries, or worse.  My thanks in advance for helping with this issue.
+p255
+ag61
+aa(lp256
+VSteel Plate Shifting 
+p257
+aVResident reports that the steel plate on the street covering a hole has shifted due to traffic. It possible needs to be reset. Please investigate. 
+p258
+ag8
+aa(lp259
+VCar knocked over a tree and traffic sign
+p260
+aVA flowering tree and a sign post are completely knocked over, apparently hit by a car last night. Pieces of the car are still lying around. Please remove and replace the tree and the sign. Thanks
+p261
+ag8
+aa(lp262
+VStreet Lamp
+p263
+aVCENTURY POLE LAMP HEAD ABOUT TO FALL OFF FROM MOUNT. HANGING BY WIRES. 
+p264
+ag61
+aa(lp265
+VDowned Tree Limb in the Street 
+p266
+aVResident reports a downed tree limb in the middle of the road. Please send someone to remove the downed limb. 
+p267
+ag8
+aa(lp268
+VBroken curb by gutter, by parking lot
+p269
+aVThe litter in the photo is now in the trash. :)
+p270
+ag19
+aa(lp271
+VSidewalks and Curb damage
+p272
+aVSidewalk heaving, bad tripping hazard. Sidewalk is next to the 370 James St building, parking lot, on John Murphy Dr. 
+p273
+ag19
+aa(lp274
+VTree Removal
+p275
+ag15
+ag87
+aa(lp276
+VSidewalks and Curb damage
+p277
+aVHole in front of this address on sidewalk. Phone the police this morning, hopefully something has been done. 
+p278
+ag19
+aa(lp279
+VTree Trimming
+p280
+ag15
+ag22
+aa(lp281
+VPot holes
+p282
+aV2 very large pot holes - one that could seriously damage a tire.
+p283
+ag46
+aa(lp284
+VSidewalks
+p285
+aVBadly cracked and missing sidewalks between the light at Highland St up to across the street at Canner along Prospect Street on the east side of the street; the sidewalks are a mess....
+p286
+ag19
+aa(lp287
+VSidewalks
+p288
+aVEntire stretch of Union Street between Water and Fair is unwalkable on one side. Trash and overgrown vegetation and a sprawling homeless camp complete with makeshift toilet...all across from a school. Opposite the proposed Vision Trail. A complete mess. 
+p289
+aS'General Eyesores & Messes'
+p290
+aa(lp291
+VBeggars
+p292
+aVThe beggar who at this intersection for months is gone. However, for the past week there have been TWO beggars at this intersection with signs, one at corner of orange and trumbull, and one at the end of the connector. Throw their signs on the ground at the end of the day, and looks bad for all the folks entering the city
+p293
+aS'Beggars'
+p294
+aa(lp295
+VOpen field 
+p296
+aVResident reports the open field at 89 Russell St needs maintenance. Weeds and grass needs trimming as soon as possible. 
+p297
+aS'Weeds, Trimming & Plants'
+p298
+aa(lp299
+VStreet Lamp
+p300
+aV3 STREET LAMPS NOT WORKING AS YOU TURN ON TO BRAODWAY FROM TOWER PKW..
+p301
+ag61
+aa(lp302
+VPrivate Property Issue
+p303
+aVHouse at the end of Runo Terrance is an eyesore. Image what other people from surrounding towns say about New Haven they take their children to play in the baseball fields? When will this be taken down?
+p304
+ag290
+aa(lp305
+VLost Dog
+p306
+aVLost dog in New Haven (zip code:  06511); Shiba Inu; male; tan/cream and white; approx weight 10-19 lbs.
+p307
+ag50
+aa(lp308
+VRecycling Missed
+p309
+aVResident reports that recycling was not collected today. Please send someone to this address as soon as possible.
+p310
+ag183
+aa(lp311
+VParks Request
+p312
+aVNeed a replacement ladder and serious clean up after arson. Some kids set fire to platform, not safe to play on with charring. Please come assess and fix. \u000aThanks for removing the broken ladder
+p313
+aS'General Cleanup, Removal and Fixing'
+p314
+aa(lp315
+Vsnow removal
+p316
+aVThis street is narrow and used by library and post office patrons, school buses and fire trucks as well as a nursery school.  It has been poorly plowed so that there is little or no on street parking.  The parking lot behind the doctor's office routinely has its snow plowed into the street so it blocks parking lanes.  Don't understand why this street is not on the narrow street map.
+p317
+ag69
+aa(lp318
+VParks Request
+p319
+aVThe trash bins in the park (near the children's play ground) are FULL!!  I picked up trash in the park this morning and had to leave the bag next to the bin because the bin was so full. Please pick up!
+p320
+aS'Parks Request'
+p321
+aa(lp322
+VPolicing Issue
+p323
+aVRoosevelts on The comer of State St and Bradley St is open after hours again! Illegally parked cars including the owners that know they are illegally parked but don't care and excessive loud music/noise. NHPD please send someone over to deal with this problem that's been going on for a while now. Thank you.
+p324
+ag321
+aa(lp325
+VPolicing Issue
+p326
+aVThere are at least 3 scooters or small motorcycles riding up and down the closed portion of English Drive.  Runners, walkers and cyclists do not expect motorized vehicles, and they are a danger to those using the road legally (in particular children whose parents are not expecting motorized traffic).  
+p327
+ag321
+aa(lp328
+VStump
+p329
+ag15
+ag16
+aa(lp330
+VPotholes
+p331
+aVSeveral potholes located on Glen Road near intersection with Blvd. Patched before but need repatching.
+p332
+ag46
+aa(lp333
+Vremoval
+p334
+aVUI Whitney Substation
+p335
+ag87
+aa(lp336
+VTree Trimming
+p337
+aVLewis Tree Service has--once again--decimated trees in New Haven. This time they destroyed a gorgeous shade tree at the corner of Orange and Humphrey and they butchered other trees along Orange street. Why were they supervised? UI should be investing in our infrastructure and not destroying the quality of our lives....
+p338
+ag22
+aa(lp339
+VLost Dog- Black Terrier, Pink Collar (no tags)
+p340
+aVFound a scruffy little black terrier of some sort on Edgewood ave. Had a pink beaded collar with no tag. Holding on to it for the night and will bring to humane society tomorrow.\u000a\u000aCall if you're missing your dog- 203.675.4390
+p341
+ag50
+aa(lp342
+VCave St - no parking on even side
+p343
+aVThe no parking signs need to be put back up on the even side of the street, especially in front of 18 Cave.  Driveways are blocked and street becomes to narrow for safe passage. 
+p344
+ag36
+aa(lp345
+VSidewalk not shoveled
+p346
+aVThe sidewalk hasn't been shoveled
+p347
+ag69
+aa(lp348
+VAggressive Driver
+p349
+aV388 PWL - CT\u000aBlack Toyota Corrola around 4:30 each afternoon is speeding and running red lights
+p350
+ag12
+aa(lp351
+VTraffic Signal / Pedestrian Signal: Cars running red light
+p352
+aVAlmost hit in cross walk during Walk signal and stop light 3 days in a row on the way with my son to nursery school.  Cars illegally parked at Westville Post Office heading to Woodbridge are unable to see red light, so when they leave they often pull out int he middle of a red light while pedestrians are in the cross walk.  Also and cars heading to New Haven attempting illegal no turn on red pulling around stopped car into the cross walk almost hit me an my son in the cross walk 2x in 3 days.  The New Haven Police could make some good revenue here.
+p353
+ag12
+aa(lp354
+VSinkhole 
+p355
+aVReceived call reporting a sinkhole at 1060 Chapel Street, near Chapel and High. 
+p356
+ag46
+aa(lp357
+VSNOW RELATED
+p358
+aVLast two years Peck alley is never plowed
+p359
+ag69
+aa(lp360
+VSNOW RELATED
+p361
+aVNew Haven Land Trust:  please be a good citizen and clear the snow from the sidewalks in front of your gardens.  William Street Garden now has so much snow in front of it that no shovel could clear it.  Thank you.
+p362
+ag69
+aa(lp363
+VTrash & Recycling
+p364
+aVThe area behind 29 Whalley (Zeta Psi fraternity) facing Goffe Street is a squalid mess, and has been for weeks. The fraternity doesn't take any reasonable care with its garbage. Trash lies spilled out of bins onto the ground and  the sidewalk (including a dead Christmas tree). Can the City fine or at least caution them?
+p365
+aS'Trash & Recycling'
+p366
+aa(lp367
+VSidewalks
+p368
+aVSidewalk is falling apart.
+p369
+ag19
+aa(lp370
+VIllegal Dumping
+p371
+aVVacant property has a pile of mattresses dumped on tree belt. Please remove
+p372
+ag4
+aa(lp373
+VPublic Space, Streets and Drains
+p374
+aVEmployees and or Delivery personel loudly cursing and arguing.\u000aEmanating from what they think is a sewer,A cavernous dock area.\u000aThey can be heard from Congress avenue.
+p375
+ag148
+aa(lp376
+VPublic Space, Streets and Drains
+p377
+aVThis new LED street light has been ON continuously since installation last week. 
+p378
+ag8
+aa(lp379
+VCT Transit Speeding
+p380
+aVThe buses are flying down Concord.  Please have one of your monitors get down here.  Happy to start taking down numbers and times but I would prefer not to have to do that.  I would like you all to self-correct or we can move the busline to Townsend.
+p381
+ag12
+aa(lp382
+V(EONP) St. John Street
+p383
+aVThere will be an Emergency Order No Parking ban on Monday, May 4th at 319-321 St. John St. to accommodate a moving truck.
+p384
+ag57
+aa(lp385
+VStreet Lamp
+p386
+ag15
+ag61
+aa(lp387
+VWhy No Traffic Sign?
+p388
+aVTHERE HAS BEEN MULTIPLE ACCIDENTS WAY DOWN FOREST ROAD AT THE SHARP TURN IN THE ROAD CONTINUING ON TO THE END TO THE LIGHT. THERE ARE NO LIGHTS ON THIS ROAD, AND IT IS A VERY BAD TURN ESPECIALLY IF YOU ARE NOT AWARE of this elbow in the road. My question is WHY IS THERE NOT A BLINKING YELLOW LIGHT SAYING SHARP TURN OR CURVE IN ROAD WITH AN ELBOW SIGN  UNDER WARNING YELLOW BLINKING LIGHT?? THIS SHARP TURN IS EXTREMLY DANGEROUS TO DRIVERS UNAWARE OF THIS . AND THERE HAS BEEN "MULTIPLE ACCIDENTS" AT THIS AREA.
+p389
+ag12
+aa(lp390
+VConstant Alarm for several hours
+p391
+aVWhat sounds like a house alarm system has been ringing in the Alden Avenue / Chapel Street area for hours today.  It began around 1:30pm.  A call to the NHPD non-emergency number at 2:30 acknowledged they were aware of the issue, but even two hours later the alarm is still going off.   Is this being investigated? 
+p392
+ag148
+aa(lp393
+V(EONP) Ferry St.
+p394
+aVThere will be an Emergency Order No Parking ban on Thursday, June 25th on the odd side of 213 Ferry St., between Chambers St. and Saltonstall Ave, from UI pole # 7704-1733, due to tree work.
+p395
+ag57
+aa(lp396
+VSigns / Bus Shelters / Pavement Markings
+p397
+aVNo parking street sweeping snow emergency sign knocked over by car.
+p398
+ag36
+aa(lp399
+VPublic Space, Streets and Drains
+p400
+aVClogged sewer drain
+p401
+ag8
+aa(lp402
+VCave in 20 feet west of Wall/Church Street
+p403
+aVThere is a very dangerous and deep street hole/cave-in on Wall St. around 20 west of Church Street (near Whitney Humanities Center).\u000aClearly the ground has been swept away under the asphalt.  Just a matter of time when someone will drive over and cave it in
+p404
+ag8
+aa(lp405
+VPedestrian Signal
+p406
+aVPushing this button to cross Orange st at Crown does not work. The small red light does not light up and after two full cycles of the traffic light I got no walk sign. 
+p407
+aS'Pedestrian Issues'
+p408
+aa(lp409
+VGratiot / New Haven Rd intersection
+p410
+aVThis intersection as a whole needs to be reconfigured!! When headed south on Gratiot you have to veer right to go left on New Haven Rd. When headed north on Gratiot there is no defined left turn lane for New Haven Rd west bound. There should be arrows in the lanes through traffic; and left turn only...... I just hate this intersection! 
+p411
+ag12
+aa(lp412
+VTrash & Recycling
+p413
+aVDue to the snow, when will they pick up trash? last wk they did not pick up trash
+p414
+ag183
+aa(lp415
+VTraffic Signal / Pedestrian Signal
+p416
+aVWhile the chronic problem with this traffic signal has been acknowledged and repair parts ordered, the issue needs to remain open until it is resolved. SCF shows a history of problems here going back years. The temporary fix odd - traffic on Yale has the green signal for 45 seconds while Edgewood the main artery only gets 25. Makes a lot of sense. 
+p417
+aS'Traffic and Pedestrian Signals'
+p418
+aa(lp419
+V40 years of blight on Litchfield Turnpike
+p420
+aVIn 1972 the owner of this property decided to harm the town of Woodbridge by leaving cargo containers on a piece of land they said he could not develop. For 40 years the travelers of Litchfield Turnpike have had to see this mess.  In the last two years the cargo containers [ across from Starbucks] have become even more blighted with graffiti. \u000aOne man's immaturity causing so much annoyance- hey idiot you win- we hope you get hemorrhoids.
+p421
+ag290
+aa(lp422
+VParks Request
+p423
+aVBeach needs to get cleaned up
+p424
+ag321
+aa(lp425
+VPublic Space, Streets and Drains
+p426
+aVThe property on the corner of Russell and Clifton Street sidewalks were never cleared!!!
+p427
+ag8
+aa(lp428
+VTree Trimming
+p429
+ag15
+ag22
+aa(lp430
+VUnshoveled Sidewalk - Repeat offender 
+p431
+aVThe building between the Booktrader Cafe and Hulls Art supplies (1142 Chapel Street) has been vacant for as long as I can remember. The snow is NEVER shoveled on the section of sidewalk in front of the building making it difficult for pedestrians to walk. People who do walk this stretch compact the snow into a sheet of ice. Please address this safety issue!\u000a\u000aBuilding owner listed below as DESIMONE LOUIS: http://data.visionappraisal.com/newhavenct/findpid.asp?iTable=pid&pid=16716
+p432
+ag69
+aa(lp433
+VSnowblowing snow in the street
+p434
+aVThere's already enough snow in the street - Chelsea Company employees and/contractors should observe proper city ordinances when removing snow in front of their property.
+p435
+ag69
+aa(lp436
+VPotholes on chapel
+p437
+aVCity buses rushing by are causing the house to jump and shake. This needs to be fixed ASAP.
+p438
+ag46
+aa(lp439
+VFallen tree branch on electrical wire
+p440
+aVThis heavy branch fell off a city tree on Wed night/Thursday morning and is still hanging off an electrical wire on Greenwich Ave. We'd like it removed.
+p441
+ag314
+aa(lp442
+VSidewalks and Curb damage
+p443
+aVThere is very significant sidewalk damage and considerable trip hazard and personal injury liability to the City of New Haven as a result of significant concrete uplift from tree roots, broken sidewalk concrete slabs, sidewalk pot holes and asphalt patching in the 1/2 block on Temple Street immediately south of Trumbull Street on the East side of Temple Street -- just north of the Yale office of New Haven and State Affairs at 433 Temple Street in downtown New Haven.  Can you please do something to repair and/or replace this section of sidewalk.  We've been living with these risks for over ten (10) years!
+p444
+ag19
+aa(lp445
+VPotholes 
+p446
+aV\u000aThere are a few potholes near Commonground High School at 358 Springside ave.  They are deep and dangerous.  Please have some one fix them.  It is near the school and parents drive by to take their kids to school.  The road is very narrow and you cannot avoid falling into the potholes.
+p447
+ag46
+aa(lp448
+V(EONP) Atwater St.
+p449
+aVThere will be an Emergency Order No Parking ban on Friday, May 29th on both sides of Atwater St, from the corner of Pine St. to house number 92, due to the Fair Haven Community parade route.
+p450
+ag57
+aa(lp451
+VTree Trimming / Removal
+p452
+aVUI Trimming
+p453
+ag22
+aa(lp454
+VStreet Lamp
+p455
+aVThere are several UI pole with lights out on College Street, across the street from 435 and 451 College Street
+p456
+ag61
+aa(lp457
+VNetz Mandy doesn't shovel sidewalks
+p458
+aVDriveway is block of ice, sidewalk not shoveled.  People stand here for the Z bus, very dangerous.
+p459
+ag69
+aa(lp460
+VLoss Fan
+p461
+aVloss fan hanging from ceiling
+p462
+ag29
+aa(lp463
+VIllegal Dumping
+p464
+aVIn the first parking lot on Valley across from Blake Street Center there are about 6 black garbage bags dumped at the edge of the woods.  Also a white bucket.  Continuing a little farther down in parking lot is another bucket and remnants of a toilet that have been there for at least 2 months.  Also coming down Valley towards Blake at last curve on right hand side is a large garbage bag.
+p465
+ag4
+aa(lp466
+VSNOW RELATED
+p467
+aVPush back, difficult to park on street due to need of snow to push back
+p468
+ag69
+aa(lp469
+VTrim
+p470
+aVOne tree in front of address is in need of a serious trim, dead falling limbs and limbs overhanging driveway and neighboring property.
+p471
+ag22
+aa(lp472
+VTraffic/Road Safety
+p473
+aVCars speeding regularly on street with many young children and a school. Can we get speed bumps?
+p474
+ag418
+aa(lp475
+VStreet lamp out
+p476
+aVReplace street lamp bulb on N468
+p477
+ag61
+aa(lp478
+VAll the manholes along Middletown Ave at Clinton St are TOO LOW!
+p479
+aVRoadway has been newly paved, but ALL the manholes are sooo low it seems like driving thru pot holes!! These feel like they are 2-3" too low, and this is the finished product?? Who authorized paying for this poor result?? This is a common occurence thruout New Haven! ALL the manholes are too low, and I don't mean a half inch so the plows don't catch them! Poor at best!!
+p480
+ag8
+aa(lp481
+VRats!
+p482
+aVThere are rats running between the trash can at the corner of Dwight and Whalley and the abandoned lot directly across the street from the Courtyard Marriott.  I have walked this stretch several times in the last few weeks and have seen rats every time.
+p483
+aS'Animals & Pests'
+p484
+aa(lp485
+VSidewalks Not Shoveled
+p486
+aVThe sidewalk in front of this location has not been shoveled. Abandoned building. Please investigate. 
+p487
+ag69
+aa(lp488
+VPublic Space, Streets and Drains
+p489
+aVSomeone (maybe the Landino Project at the corner of College and Temple) cut a utility trench in Crown and then didn't properly patch it as required by city law. The trench is deep and its damaging cars and bikes.
+p490
+ag8
+aa(lp491
+VBird droppings on sidewalk
+p492
+aVWhere State Street / Union Ave. passes under 34 connecter, sidewalk has perpetual bird droppings. I see it every day, it's also not a nice welcome to the city for those coming from Union Station. thanks.
+p493
+ag484
+aa(lp494
+VTree Trimming
+p495
+aVward 19
+p496
+ag87
+aa(lp497
+VIllegal Dumping
+p498
+aVkitchen cabinets dumped last night on tree belt
+p499
+ag4
+aa(lp500
+VGraffiti
+p501
+aVI was walking my dog this morning and I noticed some chalk art in the middle of Wooster Square park. It got me thinking that chalk is an unappreciated medium, even a repressed one, going by this example: http://www.wired.com/politics/onlinerights/news/2007/04/kinberg_0410\u000a\u000aSo, I think it's time to do right by by water soluble graffiti. What do you all think about keeping Tupperwares of colored chalk in our park? On dry days, shop keepers should keep out cans of the stuff so passers by can partake. How about we designate a Sidewalk Chalk Day. Make it a mandatory school/work holiday so everyone can participate!
+p502
+ag203
+aa(lp503
+VMaterials from the old Bigelow Building are in the street
+p504
+aVA long stretch of River St. is covered in oil, roofing material, and metal scrap. These materials are all coming from the old Bigelow Building. I have seen Department of Public Works trucks coming out of the site. This situation has been this way for weeks. This riverfront property is a mess. Oily sludge is running from the site into storm drains.\u000a\u000aI'll post photos ASAP, but the Independent or Register should shine a huge spotlight on this blight.
+p505
+ag290
+aa(lp506
+VObnoxious beggar at intersection holding sign
+p507
+aVSafety issues aside, the first thing visitors to this city see is a homeless guy begging for change next to the "Welcome to NH" sign. Stay classy NH...\u000a\u000aWith all the road work and cops on Trumbull you would think that they would do something about it...
+p508
+ag294
+aa(lp509
+VStreet Lamp
+p510
+aVlight goes off and on  mostly off
+p511
+ag61
+aa(lp512
+VStreet light burned out
+p513
+aVThis has been burned out for months.  I reported this light out in September, and it was never fixed.  Please fix it.  This stretch of Chapel street is up against the park and gets VERY dark at night, it is a hazard for bicyclists, and attracts prostitutes.
+p514
+ag61
+aa(lp515
+VRoad "repair" work on York
+p516
+aVYork Street used to be one of the best paved streets in town. Recently work was done on the street in front of the Noodle House. The repaving work - if you want to call it that - looks like something done by kindergartners with play dough. Its horrible. If the city wants to keep our streets nice, I'd recommend that it hold road work repairs to much higher standards.
+p517
+ag8
+aa(lp518
+VSpeeding by cars down W. Rock to Whalley
+p519
+aVVery dangerous.  Cars travel too fast down this stretch of W. Rock.  Too many pedestrians and cars for these excessive speeds with park entrance, basketball and tennis court activity, restaurants and farmers' market.  Chicanes or speed humps are needed in a big way.  Please help us calm traffic on this block before we have an incident like the W. Elm/Forest death.
+p520
+ag12
+aa(lp521
+VPotholes
+p522
+aVLarge pothole before Orchard St on Legion Ave caused 2 flat tires on my car.
+p523
+ag46
+aa(lp524
+VOther - city responsibility
+p525
+aVA street lamp post fell over. A nice police Officer is cleaning up the glass but a city handicap meter went down w the pole as well.
+p526
+ag314
+aa(lp527
+VSINGLE LANE FOLKS!
+p528
+aVSingle lane needs to be enforced. People make a big habit of making it a two lane. It doesnt turn into a two lane until after Vista. Also, lanes after Vista on Fountain need arrows to guide traffic better. I am tired of being almost cremated when I am in the left lane going straight and the person in the right lane does the same thing - when they should be turning.
+p529
+ag12
+aa(lp530
+VSidewalk Biking
+p531
+aVPedestrian Injury
+p532
+ag418
+aa(lp533
+VRemoval
+p534
+aVTree appears to be dead. The branches are falling off
+p535
+ag87
+aa(lp536
+VPothole on Winchester Ave
+p537
+aVHuge pothole on Winchester Ave. heading towards Hamden right before Cave St.  People trying to avoid hole are veering too close to sidewalk or opposite lane.   Accident waiting to happen. 
+p538
+ag46
+aa(lp539
+VPublic Access Walkway (sidewalk) and Boardwalk around Breakwater Bay and Harbour Point are in disrepair due to hurricane
+p540
+aVPublic Access Walkway (sidewalk and boardwalk) around Breakwater Bay and Harbour Point are in disrepair due to hurricane. Who is responsible for fixing? Sidewalk has collapsed and boards are missing on the boardwalk...both are impassable. 
+p541
+ag19
+aa(lp542
+VIce Mountains
+p543
+aVThere are big mountains of ice on the even side of the street that have caused damage to my car twice in trying to park, and have caused numerous slip and fall incidents to me and my guests. I know the city made an effort to plow the odd side, but didn't bother with the even and the frozen ice mountains are now causing damage to property and a dangerous situation to anyone needing to park on that side. 
+p544
+ag69
+aa(lp545
+VIllegal Dumping
+p546
+ag15
+ag4
+aa(lp547
+VPublic Space, Streets and Drains
+p548
+aVJersey barrier needed to stop people from making a a left out of Mc Donald's and gas station. Another accident caused by people too lazy to go around has traffic all backed up. While 4 cops and 100s of cars watch people continue to cut across 2-3 lanes of traffic to make a left. 
+p549
+ag12
+aa(lp550
+VSNOW RELATED
+p551
+aVA car is parked in front of our home, on the ODD side of the street, which is in direct violation of the Mayor's orders, thus preventing a proper snow removal from the City, which then leaves a snow pile in front of our home that lasts for weeks, and THAT prevents us from parking in front of our home (where an elderly woman lives), once the snow ban is lifted. This issue happens every year, because cars don't think that they will be towed, because they aren't, and so they continue to park "against emergency orders".  Last year a van parked in front of our home for 4 weeks, completely snow and ice packed, and I notified the proper departments, but the issue continued, and an elderly family member fell on the hazardous conditions caused by the "illegally parked van, the snow, and the ice issues" caused by the van.  I certainly would NOT like to see someone get towed, because they did not move their vehicle, but if everyone is expected to follow the rules, then THAT helps everyone in the long run.  Thank you.  Ms. Alvina TOM (thewriter1008@yahoo.com).
+p552
+ag69
+aa(lp553
+VOther
+p554
+aVThere is a deceased cat lying on the street right next to the sidewalk curb.
+p555
+ag484
+aa(lp556
+Vstump
+p557
+ag15
+ag16
+aa(lp558
+VPublic Space & Streets
+p559
+aVStorm water flooding from school is an ongoing issue. With the storm coming the drain needs to be cleared ASAP you can see from the sediment in this photo water stands then overflows then floods the houses next door and below. 
+p560
+ag8
+aa(lp561
+VSign knocked over
+p562
+aVThis knocked-over sign impedes my ability to bike.
+p563
+ag8
+aa(lp564
+VSNOW RELATED School Area - East Rock Magnet
+p565
+aVPlease Please clean Nash streets on front of East Rock school, is was a nightmare trying to go through this morning to drop kids.
+p566
+ag69
+aa(lp567
+VStreet Lamp
+p568
+ag15
+ag61
+aa(lp569
+VTraffic Signal needed on Hillside/Munson
+p570
+aVSince Science park was built there has been increased traffic coming up HIllside at high speeds. If you are on Mansfield St. it is nearly impossible to see traffic coming up Hillside unless you inch out too far. Please put a traffic light on Hillside and Mansfield. 
+p571
+ag12
+aa(lp572
+VPotholes
+p573
+aVA huge foot long hole, maybe 4 inches deep. 
+p574
+ag46
+aa(lp575
+VIllegal Dumping
+p576
+aVSeveral pillows in the shallow river be playground, just to the left of the bridge shown in the picture. Sad how our environment is treated around here. 
+p577
+ag4
+aa(lp578
+Vstump
+p579
+ag15
+ag16
+aa(lp580
+VSigns / Bus Shelters / Pavement Markings
+p581
+aVNo parking sign down
+p582
+ag36
+aa(lp583
+VPotholes
+p584
+aVConnecticut Ave is in horrible condition. It is in need of milling and repaving. Just patching the holes does not hold up because of all the tanker truck traffic
+p585
+ag46
+aa(lp586
+VStreet Lamp
+p587
+aVIt continues to flicker on and off.  About a month now.
+p588
+ag61
+aa(lp589
+VPublic Space, Streets and Drains
+p590
+aVThere is a manhole cover that needs to be secured in the middle of East Rock Road, between #237 and #245. Each time a vehicle drives over the metal cover, it makes a loud noise.
+p591
+ag8
+aa(lp592
+VTrim
+p593
+ag15
+ag22
+aa(lp594
+Vstump
+p595
+ag15
+ag16
+aa(lp596
+Vdangerous sidewalk
+p597
+aVathe sidewalk in front of the doorway at 625 orange street has a very dangerous hole - roughly 1' across, and maybe 4" deep. it had been in bad shape prior to this but has worsened with winter conditions. i attempted to place the heaved chunk back into it's spot, but it's still dangerously higher than the rest of the sidewalk. removing it will create a dangerously deep hole. with more snow and ice coming, this is an accident waiting to happen.
+p598
+ag19
+aa(lp599
+VTree Trimming
+p600
+aV***resident would like to set up a consultation.***
+p601
+ag22
+aa(lp602
+VDANGEROUS TREE
+p603
+aVTHERE IS A BIG COTTON WOOD TREE WITH LARGE DEAD BRANCHES ABOVE POWER LINES AND RIGHT ON TOP OF A SCHOOL BUS STOP. tHIS TREE NEEDS TO BE TRIMMED OR TAKEN DOWN BEFOR SOMETHING HAPPENS. 
+p604
+ag19
+aa(lp605
+Vno left turning signal
+p606
+aVWho thought it was a good idea to remove the left turn signal northbound from Whitney Ave to Sachem St? Traffic on Whitney was much better when the signal was in place. It should be returned.
+p607
+ag12
+aa(lp608
+VHazardous sidewalk needs repair ASAP
+p609
+aVAs instructed by the City of New Haven's Department of Traffic Transportation and Parking, I am creating a new ticket to ask that the sidewalk along Quinnipiac Avenue, especially the stretch in front of 986, be repaired. The sidewalks along Quinnipiac are a hot mess in general, but from Hemingway on to Rt. 80 they're just plain dangerous. I'll be sure to add some recent photos of the problem shortly. \u000a\u000aYou can see the original ticket about this issue here: http://seeclickfix.com/issues/4697-sidewalk\u000a\u000aIt was reported in April of 2009. 
+p610
+ag19
+aa(lp611
+VNew Haven Register delivery person refuses to put paper it the tube on the post
+p612
+aVNot only did I  not receive a paper yesterday ( Saturday ) but when it is delivered its thrown and I have to play hide and seek and its and not in the tube where it should be.  Sometmes after finding my paper it is soaking wet.  When I asked for the paper to be delivered at this address I was told that for this to happen I needed to put a post in place with the tube from New Haven Register with it's name on it with placement requirements.  I did it and all was fine for years, but the last year has been horrible.  It has also prompted me to reduce the days its being thrown around my address to about half the week and now considdering stopping it all together because even with constant calls to the paper the delivery person still refuses to deliver it properly.  Am I the only one or is this everywhere ?  
+p613
+ag29
+aa(lp614
+VSidewalks and Curb damage
+p615
+aVSidewalk uneven and broken- daughter twisted ankle last year; I broke my toe nail after foot crashed on uneven curb, sticking up on Osborne Av; other incidents include tripping. The sidewalk and curb need repair all along Roydon Rd to corner of Goffe and other end to Dyer-Osborne Ave. other incidents reported at neighborhood block watch of people falling over and tripping. Needs immediate action before more serious cases arise and further action taken.
+p616
+ag19
+aa(lp617
+VGraffiti
+p618
+ag15
+ag203
+aa(lp619
+VRecycling Toter
+p620
+aVRecycling was not picked up, called 3x this week
+p621
+ag183
+aa(lp622
+VParks Request
+p623
+aVThe trash bins in the park (near intersections of Front street with Pierpoint, Exchange, and Grand Avenue) are FULL!!  Please pick up.
+p624
+ag321
+aa(lp625
+VRoad in horrible shape - construction issues
+p626
+aVHello - the road is in horrible shape.  I presume this is because of the building of the nice new school.  While it's great to see the school, the builders need to exercise a little more care here.  While on my bicycle I ran over a screw that found it's way through my tire and into my rim.  And the road has become quite rough since construction started.\u000a\u000aI spoke with someone at the site today, just to let them know my frustrations and to let them know that their screw cost me a tire.
+p627
+ag290
+aa(lp628
+VPotholes
+p629
+aV6 inch deep pothole on the corner of Fountain and Wintergreen near the light
+p630
+ag46
+aa(lp631
+VTree REMOVAL
+p632
+ag15
+ag87
+aa(lp633
+VStump
+p634
+ag15
+ag16
+aa(lp635
+VSidewalks Damaged
+p636
+aVResident reports a damaged and caving sidewalk in front of this location. Inspection and repairs are requested. 
+p637
+ag19
+aa(lp638
+VTree Trimming
+p639
+aVMy house is adjancent to East Rock Park. There are 4-6 Dead trees in East Rock Park at the very edge with my property that are dead and could fall onto mine or my neighbor's house.
+p640
+ag22
+aa(lp641
+VNew Style Street Lamp
+p642
+aVStreet Lights on entire block are out. This issue has been going on for the past 2 months. I've called the street light department at Traffic & Parking 1 month ago and I was informed someone will be out to fix it. The lights started to come on and go off after 20 secs of being on and intermittently do this at night, now they don't come on at all. This is a safety issue because the block is dark!
+p643
+ag61
+aa(lp644
+VSidewalks and Curb damage
+p645
+aVCity tree roots uplift sidewalk, every season there is a pond and skating rink, another tree is breaking up  sidewalk on other side
+p646
+ag19
+aa(lp647
+VTraffic enforcement needed
+p648
+aVIt would be helpful if an officer was present at the intersection of Sherman and Elm between 4:45 and 5:15. Cars on Sherman routinely block cars from passing on Elm since Sherman turns red before traffic has moved through the intersection. This creates a pretty hot situation, with angry drivers and pedestrians trying to cross through the mess. Please enforce the traffic laws here. 
+p649
+ag12
+aa(lp650
+VSidewalks and Curb damage
+p651
+aVSidewalk uneven and broken- daughter twisted ankle last year; I broke my toe nail after foot crashed on uneven curb, sticking up on Osborne Av; other incidents include tripping. The sidewalk and curb need repair all along Roydon Rd to corner of Goffe and other end to Dyer-Osborne Ave. other incidents reported at neighborhood block watch of people falling over and tripping. Needs immediate action before more serious cases arise and further action taken.
+p652
+ag19
+aa(lp653
+Vstump
+p654
+ag15
+ag16
+aa(lp655
+VSpeeding problem on Stevenson Road
+p656
+aVCars are frequently speeding and driving recklessly when going up/down Stevenson Road towards the upper section of the street. Speed bumps should be installed, this is a school area!
+p657
+ag12
+aa(lp658
+VDrug dealing 
+p659
+aVGuys from both 178 & 188 Lexington are making drug deals. They constantly are parked with drugs and negotiating. They also have multiple strange people drive up and park in front of many of our houses and wait for them to come out with the drugs. They also race cars on a daily basis. 
+p660
+ag235
+aa(lp661
+VGraffiti
+p662
+aVTag says bones
+p663
+ag203
+aa(lp664
+VSink hole in sidewalk by driveway apron
+p665
+aVA hole in the sidewalk appeared today, about 2ft - across by 10 inches deep. I am putting a sawhorse over it for now
+p666
+ag46
+aa(lp667
+VIllegally parked cars
+p668
+aVAlmost every morning during "rush hour" there is at least one car parked on the southbound side of Whitney between Cold Spring and Lawrence. There is no stopping allowed on those blocks before 9, not to mention parking. There used to be tow trucks lined up on the side streets every morning waiting to pull the cars once they were ticketed, but that never seems to happen anymore. Please ask TT&P officers to get those cars out of the way so everyone doesn't have to squeeze down to one lane in the morning. Thanks.
+p669
+aS'Parking'
+p670
+aa(lp671
+VSidewalks and Curb damage
+p672
+aVSeveral properties on Webster Street(96-104) are in need of sidewalk repair. Resident noted poor condition.
+p673
+ag19
+aa(lp674
+VSidewalks and Curb damage
+p675
+aVPrior repair of sidewalk and cutout is inadequate and still creates dangerous situation regarding falls.\u000a\u000aSidewalk and cutout blocks should be leveled and not simply tarred
+p676
+ag19
+aa(lp677
+VDamaged sidewalk
+p678
+aVRoots of city trees have lifted and severely damaged the sidewalk in front of this location. Inspect and repair as soon as possible.
+p679
+ag19
+aa(lp680
+VStoner 'Nests' All Over Fort Hale Park
+p681
+aVWalking through Fort Hale Park between the seawall and Woodward Avenue I found about a dozen spots where local teens must squat and smoke weed.  I know this because wherever they choose to do this they leave empty packs of newports, empty dime bags, packages of philly wraps, and other remnants of the festivities.  Having lived int his neighborhood for my entire life I understand the park is a popular spot for teenagers after dark... but I do not remember ever seeing that much trash left laying around.  Many years ago when I was a teenager squad cars actually drove up into the park (I am sure they enjoyed seeing us scatter).
+p682
+ag235
+aa(lp683
+VPotholes
+p684
+aVI have been asking these be fixed for a year.  they are deep and go for about 150 feet.  The other day a City truck filled with asphalt and shovels slowed way down to go over them and drive right by.  Please.  THis month.  it has been over a year.
+p685
+ag46
+aa(lp686
+VHanger
+p687
+aVOne hanger fell yesterday and damaged a car. Resident is asking that the second hanger be removed before it falls.
+p688
+aS'Hangers'
+p689
+aa(lp690
+VSidewalks and Curb damage
+p691
+aVSidewalk lifted, needs damaged pieces removed and patch inserted in its place.
+p692
+ag19
+aa(lp693
+Vremoval
+p694
+ag15
+ag87
+aa(lp695
+VDirtbiker on Front Street
+p696
+aVWhat better way to wish all the mothers in Fair Haven a Happy Mother's Day then by taking your dirtbike for a furious ride through the neighborhood at 11 am.   Young hispanic male with longish black hair was revving it up to well beyond noise ordinance standards this morning on Front Street.  Was riding a green/white dirtbike, on the small side but making alot of noise.  I called police line but posting on ClickFix as well.
+p697
+ag148
+aa(lp698
+VTraffic/Road Safety
+p699
+aVOpen Holes in the ground. Pipes are sticking out of one of them next to the pothole in the picture.
+p700
+ag8
+aa(lp701
+VStreet Not Plowed
+p702
+aVResident reports that this intersection needs to be plowed. Please send plows to clear the area. 
+p703
+ag69
+aa(lp704
+VHANH destroying our neighborhood 
+p705
+aV50-75 people at St Anthony's 2 projects off of 1425 Quinnipiac Ave are loitering, playing loud inappropriate music (loud enough to rattle my windows). The residents of Hidden Quarry could not park in visitor spots as they have illegally been taken by HANH residents and their visitors. Our property is completely trashed with litter from the projects residents. The association pays 3x a week a private maintenance contractor to pick up trash that HANHs residents dump. Since the city has placed these projects in our neighborhoods, they take no responsibility and completely destroyed our neighborhood with the quality of life issues. \u000a
+p706
+ag290
+aa(lp707
+VStreet Lamp Out
+p708
+aVThe street lamp is normally out. Periodically it'll light for a few minutes and then turn off again.
+p709
+ag61
+aa(lp710
+VSnow Remova
+p711
+aVI paid some one to clear my sidewalk and a plow truck came thru and pushed snow on the sidewalk and  I am an elderly woman and do not have the resources to pay some one again to remove the snow from the sidewalk
+p712
+ag69
+aa(lp713
+VUnsafe crosswalk
+p714
+aVMany cars do not stop for pedestrians using the crosswalk across Grove at Hillhouse.  Cars generally seem to be travelling too fast along this stretch.
+p715
+ag408
+aa(lp716
+VTree Trimming
+p717
+ag15
+ag22
+aa(lp718
+VPublic Space, Streets and Drains
+p719
+aVIt seems there is a sink hole forming just after the man hole cover right after you turn right at the light on Main Street.  It is filled with water and has gotten larger since yesterday.
+p720
+ag8
+aa(lp721
+VPublic Space, Streets and Drains
+p722
+aVDead skunk in the middle of the road 
+p723
+ag8
+aa(lp724
+VIllegal Dumping
+p725
+aVMattress dumped near city tree and fence on Adeline Street near the Boulevard. Please remove.
+p726
+ag4
+aa(lp727
+VOther
+p728
+aVWondering if anyone is missing 3 quails that showed up in my yard today and been hanging around all day are are very comfortable around people that are now sleeping on a bucket in my yard
+p729
+ag29
+aa(lp730
+VTree Trimming
+p731
+aVward 19
+p732
+ag22
+aa(lp733
+VIllegal Dumping: tire & window, 2nd St. dead-end
+p734
+aVA tire and old window have been discarded at the Second Street dead-end.
+p735
+ag4
+aa(lp736
+VOther
+p737
+aVThe trash and recycling toters for 99 Warwick Street are never\u000aremoved from the curb.  This past Monday with the wind and\u000arain the toters were blown into the street.  \u000aThis complex is across from the Milford Barrel Company and is owned by the Barrel Company. 
+p738
+ag366
+aa(lp739
+VPotholes
+p740
+aVBetween crown and chapel
+p741
+ag46
+aa(lp742
+VParking Violation/Abandoned Auto
+p743
+aVParking enforcement needed on Sundays-many cars without zone 6 stickers park on Dwight on Sundays. 
+p744
+ag670
+aa(lp745
+VPotholes
+p746
+aVOn Willow Street near the shell gas station a very large deep pothole
+p747
+ag46
+aa(lp748
+VPotholes
+p749
+aVlarge pothole that is along a seam of pavement
+p750
+ag46
+aa(lp751
+Vstump
+p752
+aVstorm 10/23/14
+p753
+ag16
+aa(lp754
+VTree Trimming
+p755
+ag15
+ag22
+aa(lp756
+VPotholes
+p757
+aVI hit this pothole on the evening of Friday July 4th. It was on 34 heading to 95 on the side of the new cancer hospital in the left lane. I hit it going about 20 miles per hour in light trafit and lost by two drivers side tires. Had I been going fast it could have been disasterous. I apologize for the late report I just found out about this today. I had children in the car and was concerned about getting them to safety at the time. I am going to look later today but I would assume that this has been fixed by now. 
+p758
+ag46
+aa(lp759
+VSNOW RELATED
+p760
+aVSidewalk not adequately cleared of snow & ice.
+p761
+ag69
+aa(lp762
+VBroken up sidewalks
+p763
+ag15
+ag19
+aa(lp764
+VClogged storm drain
+p765
+aVStorm drain is blocked by vegetation growth
+p766
+ag8
+aa(lp767
+VPlease provide trash bins at construction sites
+p768
+aVWhy not have construction crews or DOT provide trash receptacles at all job sites so crews don't use the ground as their trash cans? Each day this week I have seen coffee cups thrown into this sewer repair hole. Today, even the policeman watched as they began filling the hole again. Providing a trash can at job sites would make it easy N\u000aNOT to litter.
+p769
+ag366
+aa(lp770
+VTurning Lane Intersects Bike Lane, Multiple Accidents Reported
+p771
+aVAt the corner of Elm and College, there is a right turning lane that intersects with the bike lane. It is difficult for cars to see bikes as they turn, which has resulted in several accidents. Technically, both have the right of way here, so it is incredibly dangerous for both cyclists and drivers. Please fix this issue before more people get hurt. \u000a\u000aPerhaps this could inspire a solution? http://www.youtube.com/watch?v=FlApbxLz6pA
+p772
+ag12
+aa(lp773
+VTree Trimming
+p774
+aVdead limb
+p775
+ag22
+aa(lp776
+VSidewalks and Curb damage
+p777
+aVSidewalk damage in front of Yale Registrars office at this location. Residents of neighborhood and employees of building have experienced tripping or falling because of damage. 
+p778
+ag19
+aa(lp779
+VTiming of Traffic Signal
+p780
+aVLLeft turn arrow from Ella Grasso onto Whalley (heading TOWARDS SCSU) is way too short and should turn red at some point so vehicles coming FROM the direction of SCSU can cross Whalley. Problem for years - just stand at the corner and watch for 5 minutes.  People are forced to run the red light or no traffic would ever get through the intersection. Timing issue - easy and cheap to fix.
+p781
+ag12
+aa(lp782
+VSidewalks and Curb damage
+p783
+aVThe sidewalk on Ramsdell Street needs replacement. Cracked and broken especially in front of 22 and neighboring properties.\u000aPlease inspect.
+p784
+ag19
+aa(lp785
+VDRUGS / NOISE
+p786
+aVCARRIAGE HILL-THERE IS AN INDIVIDUAL WHO RECENTLY MOVED INTO CARRIAGE HILL,LAST YEAR THAT THINKS HE CAN OPENLY BUY DRUGS( CRACK) OUTSIDE IN PLAIN SITE. BLACK LATE MODEL LUXURY CAR PULLED UP SEVERAL TIMES A DAY WITH DRIVERS WINDOW OPEN SERVING HIM CRACK OUT OF A BIG CLEAR PLASTIC BAG . (HARD TO MISS)HE HAS SEVERAL DRUG ADDICTED PROSTITUTES COMING TO HIS RESIDENCE DAILY, AND FEELS HE CAN BLAST HIS CAR STEREO ALL DAY AND NIGHT IN THE PARKING LOT WITH NO CONSIDERATION FOR OTHER PEOPLE LIVING HERE WHO DO NOT CREATE DISTURBANCES .A FEW RESIDENTS HAVE HAD THE POLICE HERE MORE THAN TEN TIMES LAST SUMMER FOR PROBLEMS DUE TO HIM.  MANAGEMENT HAS BEEN INFORMED ABOUT IT AND HAS DONE NOTHING. HE IS  CONSTANTLY INTOXICATED TO THE POINT OF FALLING DOWN DRUNK IN THE GRASS ,AND VOMITING WHERE CHILDREN WERE PLAYING.  !!! I FEAR HE WILL EVENTUALLY CRASH SINCE HE IS ALWAYS SEEN DRIVING DRUNK  NICE WEATHER IS CLOSE..IT WOULD BE NICE TO BE ABLE TO ENJOY SITTING OUTSIDE ON MY BALCONY AND BEING ABLE TO OPEN THE WINDOWS WITHOUT HIS CAR STEREO ON MAX VOLUME EVERY FIVE MINUTES 24/7!!!    WHEN HAS THIS BEHAVIOR BECOME ACCEPTABLE IN A FAMILY COMMUNITY WITH NO CONSEQUENCES??..IT ISN'T FAIR TO THE RESIDENTS WHO OBEY THE RULES..
+p787
+ag235
+aa(lp788
+VTree REMOVAL
+p789
+ag15
+ag22
+aa(lp790
+VPotholes
+p791
+aVSorry I don't have the exact location but I had to swerve to avoid these deep holes at the curb and nearly head-on'd the oncoming car...so I was shocked. Its bad.
+p792
+ag46
+aa(lp793
+VPolicing Issue
+p794
+aVSpeeding an running stop sine in a school zone
+p795
+ag235
+aa(lp796
+VIllegal Dumping
+p797
+aVPile the biggest pieces of sh*t in new have leave garbage on sidewalk again
+p798
+ag4
+aa(lp799
+Vpotholes
+p800
+aVtwo LARGE potholes on Foxon Hill as one turns onto Foxon Hill from Quinnipiac.  
+p801
+ag46
+aa(lp802
+VPotholes
+p803
+aV3 large deep potholes on Willis Street, called two weeks ago no results
+p804
+ag46
+aa(lp805
+VTree Trimming
+p806
+ag15
+ag22
+aa(lp807
+VTraffic Signal / Pedestrian Signal
+p808
+aVThere needs to be a turn arrow on the traffic light on Main St at the intersection with Townsend Ave. The traffic is too heavy for people taking a left so traffic gets backed up and there could be serious accidents. There is a left turn signal one intersection up at Woodward & Main. It should be the same at Townsend.
+p809
+ag12
+aa(lp810
+VStump
+p811
+ag15
+ag16
+aa(lp812
+VDislodged Manhole Cover
+p813
+aVResident reports three loose manhole covers at this location. Please send a crew to this location to secure them as soon as possible.
+p814
+ag8
+aa(lp815
+VTree Trimming
+p816
+ag15
+ag22
+aa(lp817
+VQuinnipiac Terrace Nuisance Abatement
+p818
+aVRegular and ongoing drug activity that comes out of 1435 Quinnipiac Ave especially between Units 26-28 have numerous people usually 8-20 hanging on the porches every night playing Loud music, yelling, and rapping up to 2-3am. The property management and  owners, Trinity, of Quinnipiac Terrace have ignored all complaints and let the drug activity and quality of life issues carry on. If anyone knows of legal action that we could take against the owners of the property and how to enforce the nuisance abatement act against the property owners please respond as that would be greatly appreciated.
+p819
+ag235
+aa(lp820
+VPotholes
+p821
+aV2-Recessed manholes are pits that create loud noises and vibration when trucks pass over them. Could eventually shake and damage the underground water lines and piping. 
+p822
+ag46
+aa(lp823
+VSidewalks and Curb damage
+p824
+aVIf these sidewalks were in better condition, my friend Hanna here would have even more freedom to explore!  
+p825
+ag19
+aa(lp826
+VPotholes
+p827
+aVResident reports there are multiple potholes all over Ellsworth Ave from Goffe to Whalley intersections. 
+p828
+ag46
+aa(lp829
+Vdead branches
+p830
+aVThe majority of the tree has dead branches and needs to be examined
+p831
+ag87
+aa(lp832
+VSNOW RELATED
+p833
+ag15
+ag69
+aa(lp834
+VWork done on a retaining wall and side  walk
+p835
+aVI am very concern because of the work done on a retaining wall next to my house.   I spoke to one of the workers due to my concern since they digged too deep to re-installed the one that had fallen off.The roots of the tree that is in front of my property were very thick while they were digging in I was able to see many roots  and those roots that were cut off may have weaken the tree, When  asked  if the digging and replacing of the wall can weaken my retaining wall and the tree  they said no, I hope they are right because I do have the impression that the tree may have suffered and may end up falling on my roof. It is my understanding it is a State Tree and based on my experience with the agency I doubt anything will be done.  I decided to inform you so I can have proof of my reporting since it seems that nobody wants to take responsability because according to Mr. Barnes what comes to my property it is my responsability.  Thanks in advanced
+p836
+ag87
+aa(lp837
+VStreet lamp out
+p838
+aVReplace street lamp bulb on UI 456
+p839
+ag61
+aa(lp840
+Vpothole
+p841
+aVmiddle of norton street between chaple and edgwood
+p842
+ag46
+aa(lp843
+VWarning (or stop) signs at Orange and English
+p844
+aVThis morning, within the span of 60 seconds, I saw two really near-misses caused by the same issue.  The car(s) coming from Orange assumed the car(s) coming from English had a stop sign.  Orange car(s) and pulled out right in front of the English car(s).  I can't believe the car(s) coming from English didn't hit the Orange car(s).  Could there be a warning sign to the Orange St. traffic letting drivers, cyclists, and pedestrians know that traffic from the right does not stop?  Or better yet, perhaps a stop sign, as the traffic on that road is already too fast?
+p845
+ag12
+aa(lp846
+VStreet torn up
+p847
+aVI'm not sure what is the issue and/or why Willow Steet hasn't been fixed, but its gone from dangerous potholes to the entire street is falling apart.  Can someone PLEASE DO SOMETHING????!!!!!!!
+p848
+ag8
+aa(lp849
+V(EONP) Chapel St.
+p850
+aVThere will be an Emergency Order No Parking ban on Thursday, June 4th on Chapel St, between Orange St. and State St., meter numbers 08323 through 08305, due to utility work.
+p851
+ag57
+aa(lp852
+VDead tree threatening wires
+p853
+aVSandweiss tells us that the oak adjacent to the fire hydrant in front of 317 St Ronan is dead or nearly so. It is entwined with the electric and phone wires and is hollow (and "a good wind will bring it down").
+p854
+ag87
+aa(lp855
+VStorm Debris
+p856
+aVThere are piles of storm debris and leaves all along Prospect Street that have not been picked up yet.  Prospect Street--especially the western side--seems rarely to be swept and cleaned up.  The street sweepers come up Highland and then turn the corner without cleaning Prospect St.....
+p857
+ag314
+aa(lp858
+VPotholes
+p859
+aVConnecticut ave is in horrible condition. There is more potholes than smooth pavement. Its been in desperate need of pavement for years. It's almost impossible to get down the road without hitting a major pot hole. The road has become very dangers.
+p860
+ag46
+aa(lp861
+VPublic Space, Streets and Drains
+p862
+aV5 reflective cones were left on the curbside at 289 Quinnipiac Ave. Please pick up and remove.
+p863
+ag8
+aa(lp864
+VLeaf bags
+p865
+aV3 Leaf bags were missed at 328 Townsend Ave. Resident left the bags by the tree. 
+p866
+ag65
+aa(lp867
+VJohn C Daniels School requires snow removal for safe drop-off/pickup
+p868
+aVWard street requires curb-to-curb snow clearance, especially adjacent to John C Daniels school. This is a designated drop-off area for small children. The street is severely narrowed because of unfinished snow plowing. Please clear the street so the kids can safely get into school.
+p869
+ag69
+aa(lp870
+VStolen bike!
+p871
+aVMy bike was stolen from Payne Whitney Gym this morning - it's a silver + red LeMond road bike. Keep an eye out + call if you see it - 248.429.9277. Thanks!
+p872
+aS'Theft'
+p873
+aa(lp874
+Vlittering and loitering
+p875
+aVAs i drive by  the corner of Ella Grasso and Whalley  ave i would like to report trash all over Crown Fried Chicken , dollar store  and Dino's  Corner store. Littering and loitering  by local drug dealers  sitting on the front steps house next store to  Dino's and also in front of the store . With the new Little Caesar's pizza opening up who would want to order a pizza with the dealers and buyers hanging right across the street   , something needs to be done if we want to keep establishments like soon to be Little Caesars on Whalley Ave. 
+p876
+ag235
+aa(lp877
+VStorage Container in Street
+p878
+aVThere is a huge storage container that is parked on Fairfield Street, on the side of 79 Glen View Terrace.  It has been in the same spot, in the street, for months.  It unfortunately blocks the stop sign at this intersection, so that motorists driving NW on Fairfield can't see the stop sign until last minute.\u000a\u000aAnd seriously, since when are residents allowed to extend their personal storage into the street?  
+p879
+ag290
+aa(lp880
+VSnow Shoveling help
+p881
+aVSnow shoveling assistance on our corner property as needed.\u000a\u000a#snowcrew
+p882
+ag69
+aa(lp883
+VSNOW RELATEDys
+p884
+aVAGAIN THE PARKING BAN WAS NOT ENFORCED IN THE WEST HILLS AREA. NO CARS WERE TAGGED OR TOWED ON THE ODD SIDE OF THE STREET.  WHAT A JOKE!  JUST BLOWING ALOT OF HOT AIR AS USUAL PUBLIC WORKS AND MAYOR HARP. THESE RESIDENTS LNOW THAT YOU DON'T BACK UP YOUR WORDS AND WILL NEVER COMPLY. WHAT ARE YOU AFRAID OF??? I AM SO DISAPPOINTED AND ANGRY!!!!!!! WOULD YOU PLEASE GIVE ME THE COURTESY OF A RESPONSE WHY THIS HAS NEVER BEEN DONE?  \u000aALSO AUSTIN STREET.ALL CARS REMAIN PARKED ON ODD SIDE DURING PARKING BAN WHEM DRIVEWAYS AND PARKING LOTS AVAILABLE. NO TAGGING OR TOWING TOOK PLACE HERE EITHER.
+p885
+ag69
+aa(lp886
+VTRIMMING
+p887
+ag15
+ag22
+aa.

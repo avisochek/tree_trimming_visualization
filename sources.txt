@@ -1,0 +1,44 @@
+Note That code used in creating maps was adapted from the
+Udacity Course Associated with this project.
+
+seeclickfix API
+http://dev.seeclickfix.com/v2/
+
+
+Python urllib2 tutorial
+https://docs.python.org/2/howto/urllib2.html
+
+mongodb tutorial
+http://api.mongodb.org/python/current/tutorial.html
+
+d3 loading external resources
+https://github.com/mbostock/d3/wiki/Requests#d3_json
+
+d3 exporting database correctly....
+http://docs.mongodb.org/v2.2/reference/mongoexport/
+
+New Haven geojson stuff...
+https://github.com/blackmad/neighborhoods/blob/master/new-haven.geojson
+
+HTML Slider How To
+http://webtutsdepot.com/2010/04/24/html-5-slider-input-tutorial/
+
+checking if a value is a key:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys
+http://stackoverflow.com/questions/7378228/check-if-value-is-in-array-with-javascript
+
+front page resources
+http://stackoverflow.com/questions/15655529/place-div-over-other-elements
+http://www.w3schools.com/cssref/pr_text_text-align.asp
+
+sidebar resources
+https://css-tricks.com/arranging-elements-top-bottom-instead-left-right-float/
+http://stackoverflow.com/questions/1027354/need-an-unordered-list-without-any-bullets
+
+http://www.w3schools.com/jsref/jsref_obj_date.asp
+
+http://stackoverflow.com/questions/2049845/css-fixed-position-on-x-axis-but-not-y
+http://jsfiddle.net/Starx/EzXub/
+
+http://dimplejs.org/examples_viewer.html?id=lines_horizontal
+http://dimplejs.org/examples_viewer.html?id=pie_standard

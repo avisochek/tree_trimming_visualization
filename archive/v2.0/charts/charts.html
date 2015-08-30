@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="http://d3js.org/d3.v3.min.js"></script>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+  <script src="http://dimplejs.org/dist/dimple.v2.1.6.min.js"></script>
+</head>
+
+<body>
+<button value="Potholes">Potholes</button>
+<button value="Tree Trimming">Tree Trimming</button>
+<button value="Sidewalks and Curb damage">Sidewalks and Curb Damage</button>
+<button value="Street Lamp">Street Lamps</button>
+<button value="Illegal Dumping">Illegal Dumping</button>
+<button value="Traffic Signal and Pedestrian Signal">Traffic and Pedistrian Signals</button>
+<button value="Trash & Recycling">Trash and Recycling</button>
+<button value="Parks Request">Parks Request</button>
+<button value="Parking ViolationandAbandoned Auto">Parking Violation/Abandoned Auto</button>
+<button value="Health Complaints">Health Complaints</button>
+<button value="Hangers">Hangers</button>
+<button value="Graffiti">Graffiti</button>
+<button value="General Bus RequestandIncident">General Bus Request / Incident</button>
+<button value="Bins for Trash & Recycling">Bins For Trash and Recycling</button>
+<button value="Other - city responsibility">Other-city responsibility</button>
+<button value="Policing Issue">Policing Issue</button>
+<button value="Public Space, Streets and Drains">Public Space, Streets and Drains</button>
+<button value="Request for volunteers">Request for volunteers</button>
+<button value="Signs and Bus Shelters and Pavement Markings">Signs, Bus Shelters and Pavement Markings</button>
+<button value="Street Sweeping">Street Sweeping</button>
+<button value="TrafficandRoad Safety">Traffic and Road Safety</button>
+<button value="Other">Other</button>
+<button value="total" id="a">total</button>
+<div id="chartContainer">
+<script type="text/javascript">
+//make_charts();
+d3.selectAll("button").on("click",make_charts);
+function make_charts() {
+  d3.select("#chartContainer").html("");
+  var filename1 ="data/"+ d3.select(this).attr("value")+"_by_month.csv";
+  var filename2 ="data/"+ d3.select(this).attr("value")+"_backlog.csv";
+  var filename3 ="data/"+ d3.select(this).attr("value")+"_by_category_2013.csv";
+  var filename4 ="data/"+ d3.select(this).attr("value")+"_by_category_2014.csv";
+  var filename5 ="data/"+ d3.select(this).attr("value")+"_by_category_2015.csv";
+  d3.select("#chartContainer").append("h1").text(d3.select(this).text());
+  d3.select("#chartContainer").append("h1").text("Issues Created (by month)");
+  var svg1 = dimple.newSvg("#chartContainer", 1000, 400);
+  d3.select("#chartContainer").append("h1").text("Backlog");
+  var svg2 = dimple.newSvg("#chartContainer", 1000, 400);
+  d3.select("#chartContainer").append("h1").text("Fix Times(for issues closed by gov. users)");
+  d3.select("#chartContainer").append("h2").text("2013");
+  var svg3 = dimple.newSvg("#chartContainer", 400, 400);
+  d3.select("#chartContainer").append("h2").text("2014");
+  var svg4 = dimple.newSvg("#chartContainer", 400, 400);
+  d3.select("#chartContainer").append("h2").text("2015");
+  var svg5 = dimple.newSvg("#chartContainer", 400, 400);
+  d3.csv(filename1, function (data) {
+    var myChart = new dimple.chart(svg1, data);
+    myChart.setBounds(60, 30, 900, 305)
+    var x = myChart.addCategoryAxis("x", "Month Created");
+    myChart.addMeasureAxis("y", "Count");
+    myChart.addSeries("category", dimple.plot.line);
+    myChart.addLegend(60, 10, 750, 20, "right");
+    myChart.draw();
+  });
+
+  d3.csv(filename2, function (data) {
+    var myChart = new dimple.chart(svg2, data);
+    myChart.setBounds(60, 30, 900, 305)
+    var x = myChart.addCategoryAxis("x", "Month");
+    myChart.addMeasureAxis("y", "Unresolved");
+    myChart.addSeries(null, dimple.plot.line);
+    myChart.addLegend(60, 10, 510, 20, "right");
+    myChart.draw();
+  });
+
+
+  d3.csv((filename3), function (data) {
+    var myChart = new dimple.chart(svg3, data);
+    myChart.setBounds(60, 30, 300, 305)
+    var x = myChart.addCategoryAxis("x", "fix_time");
+    x.addOrderRule(['< 1 day','< 1 week','< 1 month','< 6 months','< 1 year','> 1 year']);
+    myChart.addMeasureAxis("y", "count");
+    myChart.addSeries(null, dimple.plot.bar);
+    myChart.addLegend(60, 10, 300, 20, "right");
+    myChart.draw();
+  });
+
+  d3.csv((filename4), function (data) {
+    //debugger;
+    var myChart = new dimple.chart(svg4, data);
+    myChart.setBounds(60, 30, 300, 305)
+    var x = myChart.addCategoryAxis("x", "fix_time");
+    x.addOrderRule(['< 1 day','< 1 week','< 1 month','< 6 months','< 1 year','> 1 year']);
+    myChart.addMeasureAxis("y", "count");
+    myChart.addSeries(null, dimple.plot.bar);
+    myChart.addLegend(60, 10, 300, 20, "right");
+    myChart.draw();
+  });
+
+  d3.csv((filename5), function (data) {
+    //debugger;
+    var myChart = new dimple.chart(svg5, data);
+    myChart.setBounds(60, 30, 300, 305)
+    var x = myChart.addCategoryAxis("x", "fix_time");
+    x.addOrderRule(['< 1 day','< 1 week','< 1 month','< 6 months','< 1 year','> 1 year']);
+    myChart.addMeasureAxis("y", "count");
+    myChart.addSeries(null, dimple.plot.bar);
+    myChart.addLegend(60, 10, 300, 20, "right");
+    myChart.draw();
+  });
+
+}
+</script>
+</div>
+</body>
+</html>

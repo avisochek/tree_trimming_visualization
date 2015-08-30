@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="http://d3js.org/d3.v3.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="styles/style0.css">
+  <script type="text/javascript" src="javascripts/nh_map0.js"></script>
+  <script src="http://dimplejs.org/dist/dimple.v2.1.6.min.js"></script>
+</head>
+
+<body>
+    <script type="text/javascript">
+      /*Use D3 to load the GeoJSON file*/
+      d3.json("data/new_haven.geojson", function(data){draw(data,1,[1,2,3,4,5,12],"#map1");});
+      d3.json("data/new_haven.geojson", function(data){draw(data,1,[6,7,8,9,10,11],"#map2");});
+    </script>
+    <div><h1>Trees Trimming Requests in New Haven, CT</h1></div>
+    <div id="chart"></div>
+
+    </script>
+<script type="text/javascript" src=javascripts/tree_chart.js></script>
+    <div id="map1" class="map"><h1>January through June</h1></div>
+    <div id="map2" class="map"><h1>July through December</h1></div>
+</body>
+</html>

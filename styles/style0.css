@@ -1,0 +1,13 @@
+#map1{
+  text-align:center;
+  width:500;
+  float:left;
+  position:relative;
+}
+#map2{
+  background-color:grey;
+  text-align:center;
+  width:500;
+  float:left;
+  position:relative;
+}

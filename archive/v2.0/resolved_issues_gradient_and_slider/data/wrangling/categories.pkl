@@ -1,0 +1,138 @@
+(dp0
+S'24'
+p1
+S'Weeds, Trimming & Plants'
+p2
+sS'25'
+p3
+S'General Cleanup, Removal and Fixing'
+p4
+sS'26'
+p5
+S'Parks Request'
+p6
+sS'27'
+p7
+S'Trash & Recycling'
+p8
+sS'20'
+p9
+S'Bike Racks Request'
+p10
+sS'21'
+p11
+S'Policing Issue'
+p12
+sS'22'
+p13
+S'General Eyesores & Messes'
+p14
+sS'23'
+p15
+S'Beggars'
+p16
+sS'28'
+p17
+S'Pedestrian Issues'
+p18
+sS'29'
+p19
+S'Traffic and Pedestrian Signals'
+p20
+sS'1'
+p21
+S'Public Space, Streets and Drains'
+p22
+sS'0'
+p23
+S'Illegal Dumping'
+p24
+sS'3'
+p25
+S'Stump'
+p26
+sS'2'
+p27
+S'Traffic, Road Safety & Noisy Vehicles'
+p28
+sS'5'
+p29
+S'Tree Trimming'
+p30
+sS'4'
+p31
+S'Sidewalk & Curb Damage'
+p32
+sS'7'
+p33
+S'Signs/BusShelters/Pavement Markings'
+p34
+sS'6'
+p35
+S'Other'
+p36
+sS'9'
+p37
+S'Missing People and Pets'
+p38
+sS'8'
+p39
+S'Potholes'
+p40
+sS'11'
+p41
+S'Street Lamps'
+p42
+sS'10'
+p43
+S'City Announcements & Notices'
+p44
+sS'13'
+p45
+S'Snow Related'
+p46
+sS'12'
+p47
+S'Leaves'
+p48
+sS'15'
+p49
+S'Businesses / Companies'
+p50
+sS'14'
+p51
+S'Tree Removal'
+p52
+sS'17'
+p53
+S'Noise Pollution'
+p54
+sS'16'
+p55
+S'Informative'
+p56
+sS'19'
+p57
+S'Graffiti'
+p58
+sS'18'
+p59
+S'Trash Removal and Other Services'
+p60
+sS'31'
+p61
+S'Parking'
+p62
+sS'30'
+p63
+S'Animals & Pests'
+p64
+sS'33'
+p65
+S'Theft'
+p66
+sS'32'
+p67
+S'Hangers'
+p68
+s.

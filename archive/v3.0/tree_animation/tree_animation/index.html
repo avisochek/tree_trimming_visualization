@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="http://d3js.org/d3.v3.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="styles/style.css">
+  <script type="text/javascript" src="javascripts/nh_map0.js"></script>
+  <script src="http://dimplejs.org/dist/dimple.v2.1.6.min.js"></script>
+</head>
+
+<body>
+    <h1 id="header">Nothing Here Yet</h1>
+    <script type="text/javascript">
+      /*Use D3 to load the GeoJSON file*/
+      d3.json("../data/new_haven.geojson", function(data){draw(data,1,[1,2,3,4,5]);})
+    </script>
+    <div id="buttons">
+    <button class="button" month="0">January</button></br>
+    <button class="button" month="1">February</button></br>
+    <button class="button" month="2">March</button></br>
+    <button class="button" month="3">April</button></br>
+    <button class="button" month="4">May</button></br>
+    <button class="button" month="5">June</button></br>
+    <button class="button" month="6">July</button></br>
+    <button class="button" month="7">August</button></br>
+    <button class="button" month="8">September</button></br>
+    <button class="button" month="9">October</button></br>
+    <button class="button" month="10">November</button></br>
+    <button class="button" month="11">December</button></br>
+    </div>
+    <div id="chart"></div>
+    <div id="map"></div>
+    <script type="text/javascript">
+      var svg1 = dimple.newSvg("#chart", 1000, 400);
+      d3.csv("../data/Tree Trimming_by_month.csv", function (data) {
+        var myChart = new dimple.chart(svg1, data);
+        myChart.setBounds(60, 30, 900, 305)
+        var x = myChart.addCategoryAxis("x", "Issues Reported");
+        x.addOrderRule(
+["Jan '11","Feb '11","Mar '11","Apr '11","May '11","Jun '11","Jul '11","Aug '11",
+"Sep '11","Oct '11","Nov '11","Dec '11","Jan '12","Feb '12","Mar '12","Apr '12",
+"May '12","Jun '12","Jul '12","Aug '12","Sep '12","Oct '12","Nov '12","Dec '12",
+"Jan '13","Feb '13","Mar '13","Apr '13","May '13","Jul '13","Aug '13","Sep '13",
+"Oct '13","Nov '13","Dec '13","Jan '14","Feb '14","Mar '14","Apr '14","May '14",
+"Jun '14","Jul '14","Aug '14","Sep '14","Oct '14","Nov '14","Dec '14"]);
+
+        myChart.addMeasureAxis("y", "Count");
+        myChart.addSeries(null, dimple.plot.line);
+        myChart.addLegend(60, 10, 750, 20, "right");
+        myChart.draw();
+      });
+    </script>
+
+</body>
+</html>

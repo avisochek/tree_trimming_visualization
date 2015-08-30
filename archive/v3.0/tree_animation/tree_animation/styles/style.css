@@ -1,0 +1,11 @@
+
+#map{
+  width:85%;
+  float:left;
+}
+
+#buttons{
+  width:15%;
+  float:left;
+  overflow:hidden;
+}

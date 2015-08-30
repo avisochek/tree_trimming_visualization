@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="http://d3js.org/d3.v3.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="styles/style.css">
+  <script type="text/javascript" src="javascripts/label_map.js"></script>
+  <script type="text/javascript" src="javascripts/color_map.js"></script>
+  <script type="text/javascript" src="javascripts/nh_map.js"></script>
+</head>
+
+<body>
+
+  <div id='cover_page'>
+    <div id='cover_content'>
+      <div id="cover_background"></div>
+      <div id='cover_text'></div>
+    </div>
+  </div>
+
+  <div id=content>
+    <div id="sidebar">
+      <h1 id="header">All Issues</h1>
+      <label>zoom</label><button class="zoom" increment="-1">-</button><button class="zoom" increment="1">+</button></br>
+      <p>click buttons to enable filtering</p>
+      <button class="toggle" id="year_toggle" for="#year_selector" active="0">Year</button>
+      <input style="display:none" id="year_selector" class="slider" type='range' min='2012' max='2015' steps='4'></input></br>
+      <button class="toggle sidebar_thing" id="month_toggle" for="#month_selector" active="0">Month</button>
+      <input style="display:none" class="slider" id="month_selector" type='range' min='1' max='12' steps='12'></input></br>
+      <button class="toggle" id="hour_toggle" for="#hour_selector" active="0">Hour</button>
+      <input style="display:none" id="hour_selector" class="slider" type='range' min='0' max='23' steps='24'></input></br>
+      <button class="toggle" for="#category_selector" active="0">select_categories</button>
+
+      <ul id="category_selector">
+
+        <li class="category" name="green" style="background-color:green" active="0" name="asdf">Trees</li>
+        <li class="category" name="red" style="background-color:brown" active="0">Potholes</li>
+        <li class="category" name="yellow" style="background-color:yellow;color:black" active="0">Street Lamps</li>
+        <li class="category" name="black" style="background-color:black" active="0">Policing Issue</li>
+        <li class="category" name="blue" style="background-color:blue" active="0">Drains</li>
+        <li class="category" name="white" style="background-color:white;color:black" active="0">Snow</li>
+      </ul>
+
+    </div>
+
+    <script type="text/javascript">
+      /*Use D3 to load the GeoJSON file*/
+      d3.json("../data/new_haven.geojson", function(data){draw(data,2);})
+
+    </script>
+
+    <script type="text/javascript" src="javascripts/front_page.js"></script>
+    <script type="text/javascript" src="javascripts/display.js"></script>
+  </div>
+</body>
+</html>

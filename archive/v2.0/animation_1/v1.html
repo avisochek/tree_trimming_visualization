@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="http://d3js.org/d3.v3.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="styles/style.css">
+  <script type="text/javascript" src="javascripts/label_map.js"></script>
+  <script type="text/javascript" src="javascripts/color_map.js"></script>
+  <script type="text/javascript" src="javascripts/nh_map_2.js"></script>
+</head>
+
+<body>
+
+  <div id=content>
+    <div id="sidebar">
+
+      <button id='animation'>animation</button>
+
+    </div>
+
+    <script type="text/javascript">d3.json("data/new_haven.geojson", function(data){draw(data,2);})</script>
+  </div>
+</body>
+</html>
