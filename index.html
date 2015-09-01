@@ -10,17 +10,24 @@
 </head>
 
 <body>
+  <div><h1>Trees Trimming Requests in New Haven, CT</h1></div>
+  <!--Line Chart of tree issues reported by month goes in the "chart" div-->
+  <div id="chart"></div>
+
+  <!--tree_chart.js renders a line chart of tree issues by month in the "chart" div-->
+  <script type="text/javascript" src=javascripts/tree_chart.js></script>
+
+  <!--the maps will go in the "map1" and "map2" divs-->
+  <div id="map1" class="map"><h1>January through June</h1></div>
+  <div id="map2" class="map"><h1>July through December</h1></div>
+
+
+    <!--Plot Maps of Tree Trimming Issues using draw function from nh_map0.js-->
     <script type="text/javascript">
       /*Use D3 to load the GeoJSON file*/
       d3.json("data/new_haven.geojson", function(data){draw(data,1,[1,2,3,4,5,12],"#map1");});
       d3.json("data/new_haven.geojson", function(data){draw(data,1,[6,7,8,9,10,11],"#map2");});
     </script>
-    <div><h1>Trees Trimming Requests in New Haven, CT</h1></div>
-    <div id="chart"></div>
 
-    </script>
-<script type="text/javascript" src=javascripts/tree_chart.js></script>
-    <div id="map1" class="map"><h1>January through June</h1></div>
-    <div id="map2" class="map"><h1>July through December</h1></div>
 </body>
 </html>

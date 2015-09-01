@@ -1,9 +1,9 @@
 #Summary
-SeeClickFix is a platform for residents of a city to report non emergency issues to their city. This visualization looks at the number of Tree Trimming Requests reported in New Haven, Connecticut by month. The number of tree trimming issues has a periodic trend, with a large increase in the number of issues being reported during the second half of each year.
+SeeClickFix is a platform for residents of a city to report non emergency issues to their city. This visualization looks at the number of Tree Trimming Requests reported in New Haven, Connecticut by month. The number of tree trimming issues has a periodic trend, with a large increase in the number of issues reported during the second half of each year.
 
 #Design
 ###Chart:
-A line chart is used to emphasize the cyclical nature of the Tree Trimming Issues.
+A line chart is used to emphasize the cyclical nature of the Tree Trimming Issues. The line chart was chosen because, as oppose to a bar chart or a scatter plot, shows the repetitive peaks occurring every year.
 
 An opaque rectangle is place over the second half of every year both in order to draw attention to the annual peaks in the graph, and to give the user a better sense of the timing of the data.
 
@@ -12,11 +12,11 @@ Data from 2015 is left out, since it does not represent a full year, and may con
 ###Map:
 Issues are plotted as points on a map, with one map for Issues in the earlier half of the year and another map for issues in the second half. Issues are represented by opaque green circles, so that the Second Map --representing issues reported in the second half of the year-- appears more dense and solid.
 
-This reinforces the trend that more issues are reported during the second half of the year.
+The map was chosen because it allows the viewer to see where the tree trimming issues are coming from, while reinforcing the trend that more issues are reported during the second half of the year.
 
-The second chart has a gray background, which helps the user to associate it with the chart above, where the second half of each year is covered by a grey rectangle.
+The maps also serve as a legend, since the second chart has a gray background, which helps the user to associate it with the chart above, where the second half of each year is covered by a grey rectangle.
 
-The map also reinforces that the data is local to New Haven, Connecticut.
+The use of the map also reinforces that the data is local to New Haven, Connecticut.
 
 #Feedback
 

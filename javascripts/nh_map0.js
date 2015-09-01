@@ -1,6 +1,7 @@
 //draw map of new haven and plot points on map
 function draw(geo_data,zoom,months,div) {
 	"use strict";
+	var margin=20
 	var width = 520,height = 520;
 
 	var svg = d3.select(div)
